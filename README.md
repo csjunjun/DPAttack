@@ -1,5 +1,7 @@
 # DPAttack
 
+# objectnet
+download dataset from https://objectnet.dev/download.html and put it to data/objectnet/, if it is too large, you can only download the filelists in data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt
 
 # for PathMNIST
 pip install medmnist
@@ -19,3 +21,4 @@ you need to download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/c
 # for evaluating baselines
 go to the baselines folder
 the entrance for ADBA is named with ADBAxxx.py others entraince are in the attack_{dataset}_others.py
+you have to git clone https://github.com/machanic/TangentAttack.git to the folder of "baselines"
