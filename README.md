@@ -1,5 +1,7 @@
 # DPAttack
 
+# setup
+
 # objectnet
 download dataset from https://objectnet.dev/download.html and put it to data/objectnet/, if it is too large, you can only download the filelists in data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt
 
@@ -22,3 +24,8 @@ you need to download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/c
 go to the baselines folder
 the entrance for ADBA is named with ADBAxxx.py others entraince are in the attack_{dataset}_others.py
 you have to git clone https://github.com/machanic/TangentAttack.git to the folder of "baselines"
+
+# for real-world APIs
+you need to request your own api key and secret key from the API platform. and then set these variables in the code as your own.
+Note that if there are multiple threads simultaneously running, and calling the getTempFilename function, the save temporary files may be overlapped and leads to wrong result.
+Naming these temporary files with different names for each thread can solve this problem.
