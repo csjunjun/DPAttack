@@ -29,3 +29,4 @@ you have to git clone https://github.com/machanic/TangentAttack.git to the folde
 you need to request your own api key and secret key from the API platform. and then set these variables in the code as your own.
 Note that if there are multiple threads simultaneously running, and calling the getTempFilename function, the save temporary files may be overlapped and leads to wrong result.
 Naming these temporary files with different names for each thread can solve this problem.
+install tencentcloud following the instructions from https://github.com/TencentCloud/tencentcloud-sdk-python-intl-en.git
