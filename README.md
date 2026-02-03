@@ -4,6 +4,7 @@
 
 # objectnet
 download dataset from https://objectnet.dev/download.html and put it to data/objectnet/, if it is too large, you can only download the filelists in data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt
+OursImageNetDBS.py --datasource objectnet --victimmodel clip 
 
 # for PathMNIST
 pip install medmnist
