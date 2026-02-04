@@ -2,6 +2,9 @@
 
 # setup
 
+
+OursDBS.py  PathMNIST, ImageNet, ImageNetC,objectnet
+
 # objectnet
 download dataset from https://objectnet.dev/download.html and put it to data/objectnet/, if it is too large, you can only download the filelists in data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt
 OursImageNetDBS.py --datasource objectnet --victimmodel clip 
@@ -31,3 +34,9 @@ you need to request your own api key and secret key from the API platform. and t
 Note that if there are multiple threads simultaneously running, and calling the getTempFilename function, the save temporary files may be overlapped and leads to wrong result.
 Naming these temporary files with different names for each thread can solve this problem.
 install tencentcloud following the instructions from https://github.com/TencentCloud/tencentcloud-sdk-python-intl-en.git
+
+# for cifar-10
+OursCifar10DynStart.py
+
+# Baseline blacklight
+set args.defense=1
