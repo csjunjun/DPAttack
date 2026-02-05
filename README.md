@@ -212,15 +212,15 @@ callTheorem5()
 - `--ablation` with PDO search:
   - `2`: Uniform initialization
   - `3`: Gaussian initialization
-  - `4`: Bar initialization
-  - `5`: Random color initialization
+  - `4`: d_b initialization
+  - `5`: d_r initialization
   - `6`: Another image initialization
 
 - `--ablation` with dyadic fixed binary search (ADBA search):
   - `21`: Uniform initialization
   - `31`: Gaussian initialization
-  - `41`: Bar initialization
-  - `51`: Random color initialization
+  - `41`: d_b initialization
+  - `51`: d_r initialization
   - `61`: Another image initialization
 
 ## Acknowledgments
