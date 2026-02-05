@@ -6,8 +6,7 @@ This repository provides an implementation of the paper *"Low-Cost Hard-Label Ad
 
 ## Setup Instructions
 
-1. Install PyTorch
-2. Install required Python packages based on the import statements in each file
+1. Install required Python packages based on the import statements in each file: pip install -r requirement.txt
 3. Download the necessary datasets and model weights as described in the relevant sections below
 
 ## Reproducing Experimental Results
@@ -123,13 +122,13 @@ cossimEvo()
 callTheorem5()
 ```
 
-### 8. Tables 3, 4, 6 - Attack Results on Standard and Robust Models
+### 8. Attack Results on Standard and Robust Models
 
 Attack ImageNet, ImageNet-C, and ObjectNet with standard models, robust models, and CLIP:
 
 - **Ours (Optimal Block Size)**: `Ours.py` (set blocksize to optimal value for `Ours_opt` results)
 - **Ours with Dynamic Block Size Selection**: `OursDBS.py` (generates `Ours_dyn` results)
-- **Ours with Dynamic Block Size Selection for CIFAR-10**: `OursCifar10DBS.py`
+- **Ours with Dynamic Block Size Selection for CIFAR-10**: `OursCifar10DBS.py` (tools/utils.py getCifar10Testdata() to make cifar10 test data)
 
 For other baseline methods, run the corresponding files in the `baselines/` directory:
 ```bash
@@ -155,17 +154,19 @@ The provided checkpoint is trained following the repository: https://github.com/
 
 ### 9. API Attacks
 
-Run the attack scripts in the `attackAPIs/` directory:
-
-- Request API keys and secret keys from your API platform
-- Set these variables in the code with your own credentials
-- **Note**: When multiple threads call `getTempFilename()` simultaneously, temporary files may be overwritten. Use thread-specific names for temporary files to solve this issue.
 
 Install TencentCloud SDK:
 ```bash
 pip install tencentcloud-sdk-python-intl-en
 ```
 (See: https://github.com/TencentCloud/tencentcloud-sdk-python-intl-en)
+
+Run the attack scripts in the `attackAPIs/` directory:
+
+- Request API keys and secret keys from your API platform
+- Set these variables in the code with your own credentials
+- **Note**: When multiple threads call `getTempFilename()` simultaneously, temporary files may be overwritten. Use thread-specific names for temporary files to solve this issue.
+
 
 ### 10. Blacklight Defense
 
@@ -195,12 +196,14 @@ Follow their instructions to download the SA-1B dataset and SAM model.
 
 #### Attack Object Detection on COCO
 
-The main entry point is `objectDetectionAttack.py`, which tests both our method and ADBA.
 
 Download COCO validation set:
 ```bash
 # Download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
 ```
+
+The main entry point is `objectDetectionAttack.py`, which tests both our method and ADBA.
+
 
 ### 12. Ablation Studies
 
