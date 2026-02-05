@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides an implementation of the paper *"Low-Cost Hard-Label Adversarial Attack From First Principles"*. It includes code and data for reproducing all experimental results presented in the paper.
+This repository provides an implementation of the paper *"Low-Cost Hard-Label Adversarial Attack From First Principles"*. It includes code and data for reproducing experimental results presented in the paper.
 
 ## Setup Instructions
 
