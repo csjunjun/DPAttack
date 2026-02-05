@@ -1,0 +1,2000 @@
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/e53ec2cfcf7b4d4.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/d2fe633278c14fe.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/3cc39c11bb20420.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/51a4a82b6bb943f.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/butter/968cb222088f424.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/hat/c841a9b1a5cb4de.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/51238fb0a6c8478.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/ee0eb646976b435.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/91ed00dd815e41a.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/31257e1518a54b5.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/pliers/0cc7bff8f29b40b.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/ab1f2884ebbe4b8.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/ring/a8c1f7bee1da4e3.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/comb/6fb4771c14c24ac.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/b03d00184b7c4ed.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/milk/c5f7827ef326433.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/cec43b425dbb410.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/earring/f66ec377630c44d.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/93ccdcf29f4f41b.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/flour_container/fa6a8b294a85459.png,Flour container,105
+yourdatapath/objectNet/objectnet-1.0/images/wrench/cb8aa14f8cb3421.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/555d0f485d574ab.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/whisk/13635fbad9ad4ff.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/hat/5576025693be481.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/cereal/f6f96914e16940e.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/teabag/9f2a0d38deee474.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/ca3028d43cc34dd.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/tanktop/7d20f74d8ede4e4.png,Tanktop,262
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/086236fa2bf3444.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/pill_organizer/cb0d4d830bfd4d4.png,Pill organizer,189
+yourdatapath/objectNet/objectnet-1.0/images/pencil/2fb460224e6b4e8.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/e6fc68fed6cc447.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/89c4154a2cbf420.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/earring/623c622ecb1d490.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/95b708ca53fc4ab.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/07b317fb50a54db.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/thermos/4fda64f38eb242c.png,Thermos,270
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/f3e73f6aa18c46e.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/962098ef9f8d497.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/ebe551b1b668438.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/baseball_bat/ef91830710954e6.png,Baseball bat,6
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/4598da5c9204496.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/tongs/7a015272d565487.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/calendar/8833b81afee04e9.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/tape/8447bf00cc48467.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/nightstand/2120259bbba1465.png,Nightstand,167
+yourdatapath/objectNet/objectnet-1.0/images/razor/9551f25248d4499.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/13f16b3e130c466.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/a3688c600ce14d8.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/2c9ac8719af84a6.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/rock/6607f5aba7dc406.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/7d673359da7d4f1.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/7f9d7bff9ec6447.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/d2ecbb9cd25747b.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/35b6a3843d41446.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/a7d3eea6d034498.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/sponge/430b493f2a634c7.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/rock/db17cdb775de444.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/milk/a4568606aeec4c1.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/leaf/a4ca70d84cd84f3.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/c65d53e4c3e24ce.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/de2122e353a7489.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/4833f64254e04e4.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/belt/00fd4d9d875840c.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/detergent/7ac2fe867821499.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/sponge/c4beb4b25a1b425.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/fork/ed300d147973421.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/3fe7be5a2b8f4bf.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/22306c401427492.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/8af11c4db07247e.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/cereal/13e8053c69f1461.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/e9575f37245448d.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/2d12c96711b54a1.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/wrench/adbb5dc9cf2f4d9.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/dde0c1dd37bc401.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/15eb923de75c4cb.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/c99e0f4d9254466.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/156e8eabb240418.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/8357325786e14fc.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/a86beb32eccf4b9.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/spoon/c3cd30eb989d4d0.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/razor/6f256496b9e14cd.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/983685331d914e2.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/b8c5dde4d85d4f5.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/coffee_grinder/30904b0dd6a4487.png,Coffee grinder,61
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/d3564e831e7248a.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/820ff3a21c46497.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/tomato/29629e74e0d047d.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/8b765558d4ab4fd.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/03e491786a154de.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/534d04310d31452.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/razor/ea0afa336ce44f9.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/cereal/5e89cd53bf2540b.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/toy/d2710172f67e411.png,Toy,281
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/8e9d1f70273c4f5.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/d837c1e830f6482.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/boots/367f9c6db10c4d0.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/blender/84a206ed38ef486.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/marker/d922cbdd760a423.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/wrench/9c30fac17cbd40b.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/c82ad7a28ff54cb.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/ring/12b43dccbf514a9.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/4c0388117e43436.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/1ca82f3ab4a3494.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/668ff7a2c78741e.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/boots/f2969f35319b407.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/7ae747cc610c44f.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/9ee59d8a3b524f2.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/board_game/a783db3aba8b462.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/a00ec51a9e5d4cc.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/50e7829a10e2414.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/napkin/6b5230db95cb403.png,Napkin,163
+yourdatapath/objectNet/objectnet-1.0/images/comb/1ceaa498e930424.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/magazine/6717592745014ab.png,Magazine,145
+yourdatapath/objectNet/objectnet-1.0/images/calendar/6b76175bb6f243e.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/scissors/0e6d0202f121404.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/70012b8fd9fd4f8.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/e8c4631e5d1d4f3.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/butter/4619fc369b53442.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/663a62dc46c14e5.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/d771d52534ec4c5.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/teabag/bce3cab98ec34b9.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/a49500adafd74a7.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/trophy/a8def82c3505428.png,Trophy,286
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/4289c837fa074a9.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/detergent/26b18d91136740f.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/coaster/fbab1cd5a4ca430.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/kettle/834b678e5baf465.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/tomato/393981581dd3452.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/6ff140f473fb47d.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/89b9c17dd3324fe.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/napkin/f7c56783e7664f0.png,Napkin,163
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/6a0aa17b137b43c.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/4e1d0308d7914a6.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/99ed07510bf7485.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/5588777d491e401.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/tape/922c7fada241486.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/tomato/3b84227ce11341a.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/marker/e29749f2b58e4c7.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/shorts/f05a16c35f60467.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/bb45479e40854c5.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/boots/65b11fd7a9cd447.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/coffee_grinder/105c86612c67468.png,Coffee grinder,61
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/a219241063af4f7.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/leaf/76260335bad34a6.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/whisk/8a30672a0149465.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/battery/b70af176b4e3494.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/cereal/6d5079e59698428.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/981f91f650be402.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/9a28fb12fc474b5.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/d24d43fdd651473.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/0befd02baaa442c.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/f7496b4831314fb.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/5905923018084d8.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/f02bed1bccc7489.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/coaster/dd90379be31146d.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/shorts/e782ed99cc474eb.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/7ab71a2c6a504b1.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/66cdcc760ea3470.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/065178be99694a1.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/wrench/4b5ecdb4cb994f1.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/belt/03bfa9ed66c346a.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/kettle/28ce54259e87422.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/644e2e4d99104f7.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/ea118c82c3d949a.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/68cae1db2b92482.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/tape/04ed835b7de8497.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/649c356e9379464.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/belt/6fcf899bade7445.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/292285eecdd245f.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/battery/2f62f5df0d1a43c.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/6133364c28c6455.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/5090163e88af4bd.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/notepad/fdb421edd279440.png,Notepad,169
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/022673807d7f46e.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/spoon/95ce0a0e6c2f46a.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/b049fdbf271d4db.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/3f863a677069474.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/de299f15bc40454.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/38753d2ece3b4c2.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/c758e8c0e19a47a.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/button/b63e485cb7f0477.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/935d3d68100a490.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/17fc969aa5f548a.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/b58cd73cc5e6497.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/142320bf75c9440.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/blanket/00568ae8dc684a1.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/81f29f9bdcc94e9.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/b6b67102998c458.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/comb/ee0b23a7f2b1437.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/detergent/b524459c226f479.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/3a79d0b8ee20476.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/razor/e48b4a65c62e4c8.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/becb7870ceb347e.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/1ae5914d4db94ae.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/1b6f101db4ec4e0.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/14fbd9f130f7481.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/c8e45427c3c14c2.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/fork/d7ee9bc5d3374d9.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/30690b9b8eaa436.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/4465f5739b8e4d6.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/374a1f9ec1f94cb.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/d5e32b29d323434.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/bbf63aa979fe49e.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/board_game/1a88e373e07e474.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/stapler/1a52d30d314144a.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/7ee6baf1e7da4f9.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/928fa8f6632245d.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/belt/67e5ce21c5b94c3.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/tanktop/95c266310156466.png,Tanktop,262
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/8a208b9cb155476.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/rock/297538b170ce4e1.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/0f952555696a413.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/77ad029b419044a.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/f2a30498d94440a.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/e151009fdbf340b.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/e3c87d013aa040c.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/coaster/9812c9f822cc4c3.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/572fb0c3f18e486.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/webcam/22561fe6873347b.png,Webcam,301
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/4b0cf52657f14b2.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/3ddf415a0835422.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/b32f525ba1c8450.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/belt/699b31ee8dba4ed.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/eef2ee5d13974b2.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/blender/76991a3876b2456.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/stapler/d9d52c2914444c0.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/butter/7af091183036464.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/slipper/b141b1cd8c86432.png,Slipper,233
+yourdatapath/objectNet/objectnet-1.0/images/cheese/13bc439db472429.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/77f439530739400.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/0128f0dcac5e4f4.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/pencil/c8c9d9f7686e4ac.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/faef9cf70a6940f.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/7f540dd0f53d426.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/893cd02ea1084e2.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/blanket/4b80038d1c90423.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/7ee169ab81b0413.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/marker/fc47c751446d443.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/da7c01c1910542b.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/285c6875ce4a415.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/0834e7a19ec94c2.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/comb/0dac9eb0aa0b478.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/4465954d11154d8.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/butter/b32fc2b611744d0.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/headphones_over_ear/ceeace80507444d.png,Headphones (over ear),119
+yourdatapath/objectNet/objectnet-1.0/images/milk/c81d8b0b1e8946b.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/mouse_pad/71f2220ede204ce.png,Mouse pad,155
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/dc8d56bce06643e.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/belt/95554f13371b482.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/baseball_bat/842c5709941f46d.png,Baseball bat,6
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/2d404e1901e140a.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/30f28d06269945a.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/d1e6f6464e7743e.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/f1fbee84796242f.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/earring/7dc1d183392c42f.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/hat/ced6083b8b7c456.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/adbf0141bfc94a1.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/ring/07af4947ce5942b.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/rake/cb6fe5c9ad114a8.png,Rake,207
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/1fd3855b4ee4426.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/476f926bb7b44ea.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/86f9ad57328645b.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/scissors/f00ac48a742146f.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/poster/7d6d297b3119407.png,Poster,202
+yourdatapath/objectNet/objectnet-1.0/images/calendar/0183913608034f9.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/3f132a8efa444ed.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/895c00ff42a8400.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/102a2b8eec3f480.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/ec8b0316588d4da.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/dbee97f94e24418.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/coaster/ea622e4793514b8.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/7490f6872b27449.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/78887af22a18498.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/tongs/e65acbd21ab94cd.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/tape/cae32728dfae46c.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/3a50042630454f4.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/webcam/cf677f097070467.png,Webcam,301
+yourdatapath/objectNet/objectnet-1.0/images/honey_container/abd1cbc0c31948e.png,Honey container,121
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/1f5311c9c872479.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/b3da70e8f082476.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/86de1dfb729b454.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/d5781a37cacc4a0.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/898cab22424948c.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/198bfed7d3624b4.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/comb/95f851168a92409.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/cereal/67344d1593354ec.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/coffee_beans/4f3ec16ea5b94b0.png,Coffee beans,59
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/f1549757127248a.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/fbc3107179274b0.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/5a00bc76feff4e1.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/butter/9a270cfa7c12453.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/egg/9982a609f43246f.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/ice/1c06c550cd40412.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/dca9684d2d924a8.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/photograph_printed/9dc015a5d2e24a5.png,Photograph (printed),187
+yourdatapath/objectNet/objectnet-1.0/images/trophy/18c63882ba95446.png,Trophy,286
+yourdatapath/objectNet/objectnet-1.0/images/cork/f207107b021e4f5.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/trophy/8848469e34f9433.png,Trophy,286
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/e3f1f3bdad1f489.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/7a3f0d27283540e.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/cb11c756aa3f46a.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/8f2de1ae4f83468.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/d2ff521d5a99422.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/whisk/c8a80a372876454.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/30417738bf97489.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/283cc99159df423.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/b220f6edd53d4a1.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/a0b6e926c9f3428.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/b081bf18d2e3448.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/4dc70f5766c348b.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/whisk/3e4653ea8e5c4e4.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/d99ca0a51c0c4d9.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/ce75eb3f06134c8.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/024136b25d454f2.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/f72e69249f06467.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/aae06ff11e9b489.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/leggings/705b9b463a51498.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/59d598afccdd499.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/leggings/7fcdbe4834eb4d4.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/spoon/95f846bcc980445.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/spoon/e705f470e07a4b9.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/04856a228f264ca.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/pencil/528284c041484db.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/nail_file/ac3d517de08542c.png,Nail file,161
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/3f822918b4c04e6.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/7e6f719f2800449.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/pliers/a7c5e51bd7124c3.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/df0ab99f288a41e.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/0e71db58de4a4d7.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/usb_flash_drive/7e6fcc2c83c441d.png,Usb flash drive,291
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/677bee93a199479.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/milk/a1b1a906cd0444a.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/e10478b1d15c465.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/7ba0a71dd974463.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/e432dc4f025d49a.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/63c79fd885e246f.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/c40a4f8c6f7641e.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/c37f1e797ff74ce.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/a89c0c43afcf402.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/soap_bar/d7b14bdfb9ce41a.png,Soap bar,234
+yourdatapath/objectNet/objectnet-1.0/images/peeler/4399ba6dd304489.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/9490f961dde5406.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/c611c08348a047f.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/f75bd0ed3089411.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/stapler/e6595c1b39ef46b.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/975cc22820ab4d0.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/video_camera/32e90fcecc2e49c.png,Video Camera,294
+yourdatapath/objectNet/objectnet-1.0/images/webcam/a2bab81c98b9481.png,Webcam,301
+yourdatapath/objectNet/objectnet-1.0/images/pencil/b637e9cb1ea147f.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/09e18e0a3f594c7.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/25a742752557441.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/15f73c8256d04c4.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/cereal/859d231f76e24d2.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/dc025580a635499.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/milk/ac2dbafd40f4499.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/thermos/3c71320ef9d7452.png,Thermos,270
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/a1a54941f9104bf.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/hat/54f3c32dcbb840c.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/d02fc5e339dc43b.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/board_game/a00f7b881b5b499.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/10a1a78685194b2.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/sugar_container/168775e78bd74e1.png,Sugar container,252
+yourdatapath/objectNet/objectnet-1.0/images/briefcase/5229e6db38fd49b.png,Briefcase,35
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/d1eeacd299a6448.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/usb_flash_drive/b95ed2889f2a453.png,Usb flash drive,291
+yourdatapath/objectNet/objectnet-1.0/images/shorts/75c194dccb9c40b.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/7f937db5e6c14a2.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/notebook/fea3d90a41794b1.png,Notebook,168
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/68c0a5108ee346e.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/ed3dd6ab959e464.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/coaster/42bf2d250e9e4dc.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/ice/bdb172adabcd43a.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/530f45bfe38d47c.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/2a33fd194b63409.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/rock/a0e88ae9a6204ef.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/d1c80174a8ae488.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/soap_bar/1578b0a7950b4ce.png,Soap bar,234
+yourdatapath/objectNet/objectnet-1.0/images/tomato/39f0241d982e4ce.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/d13ce7b030b74df.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/blouse/a43fe33a7b4b473.png,Blouse,23
+yourdatapath/objectNet/objectnet-1.0/images/battery/2d958e6894104a3.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/7397ec2ae9104f4.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/paper/7873586f20a648b.png,Paper,176
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/d8b4e02bced84c5.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/loofah/287964d0c7a14fd.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/1ee64abf2419471.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/08fa4895cfaa488.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/leaf/c6ba8f8718a9406.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/85a2456062784b3.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/ed02ece59c59442.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/e2ba761811b44a5.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/d629a10a79bb4d1.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/4f2b6fe4b115402.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/pliers/890520d785a1480.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/2d03d4a7912d404.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/c7592d8753b74ee.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/769cd901f5a4417.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/39211e2625c14c3.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/cc5f8019074b403.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/c2ef8c0897fc452.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/fd3e023e46bd415.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/razor/246f8a83cbcf45a.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/tape/816f3012c29a4bf.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/whisk/a23940b02c584a9.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/paper/65dcf0f8540446d.png,Paper,176
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/6c29888bc6df49e.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/be9767a840184fd.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/receipt/76414f4a37e1407.png,Receipt,209
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/b570adcbd5104ae.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/271a09dc319f479.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/cork/f3337c3bc5ce4a8.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/spoon/39a22f683417466.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/f88a1e5ccf9e45e.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/d3762ccf82ec41a.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/scarf/ea53200ec20547b.png,Scarf,221
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/046d581ebbac4c8.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/f133e0aef6974e2.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/8542ef524320449.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/belt/a7ed1053da454f0.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/11281e4fb93d431.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/3e92965de869480.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/1759f4775792430.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/battery/da9b551e39a146d.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/70350ff9ffbd4a7.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/tanktop/ea8c2c8647ca49e.png,Tanktop,262
+yourdatapath/objectNet/objectnet-1.0/images/mouse_pad/c171b09131ac4fd.png,Mouse pad,155
+yourdatapath/objectNet/objectnet-1.0/images/water_filter/a5573cd954294b6.png,Water filter,300
+yourdatapath/objectNet/objectnet-1.0/images/whisk/f06e8e6a61814e6.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/1b35aa96cfd646e.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/99721720bdaa487.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/leaf/f3ab81b31c7b42d.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/226f89b7ea104ab.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/removable_blade/94538db4c6f7434.png,Removable blade,211
+yourdatapath/objectNet/objectnet-1.0/images/kettle/8678958aedd9452.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/af549024c08c4e1.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/48711930a1f24c7.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/honey_container/8ab7a9bf454d479.png,Honey container,121
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/31859c8f932f412.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/56b20467482f4a5.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/blanket/77cb1ccefb45468.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/496cdd96906442a.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/8dbb83ee0d41405.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/cheese/ca28f81e74164ff.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/bba2fd3e54604a2.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/7e4648395152482.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/909006ae58d248f.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/e4bc1c5fb74443e.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/brooch/52cdb8adfa89439.png,Brooch,36
+yourdatapath/objectNet/objectnet-1.0/images/cheese/42e0104867a6446.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/ice_cube_tray/c6e39c490a11486.png,Ice cube tray,123
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/c5a36105339545c.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/board_game/368653a216f3437.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/placemat/1b80186c5f4a421.png,Placemat,192
+yourdatapath/objectNet/objectnet-1.0/images/marker/4836a052e6f0421.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/notebook/79e4156b16bd471.png,Notebook,168
+yourdatapath/objectNet/objectnet-1.0/images/soap_bar/5aa1ba1beefc4a2.png,Soap bar,234
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/9663601d7e004e3.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/leaf/a6b1a70891d14aa.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/86bef9d5ae0948e.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/cork/7eb705c1a6bd4f0.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/sponge/e791a3a68cac409.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/57ef9aee32834b8.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/stapler/402bc6072cc44ee.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/jar/7c4b74f0ace8457.png,Jar,127
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/6c494077a24f416.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/478601673ec346a.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/4b029aa26d5b4c5.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/caa331a5665b413.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/3209e7a73c7045e.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/coffee_grinder/27c4cc97a3974e5.png,Coffee grinder,61
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/0235f860efc447a.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/tongs/639cb66022ca4c1.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/pliers/621247c1a3744df.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/88908a17eec7477.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/1d0d42ebb17d4cc.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/whisk/79cade4af3dc459.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/e69db7f6ae3647f.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/sponge/651fbfe4aeca42c.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/fe3b50c5679f4db.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/694a26ba472a424.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/06a05b7f7feb4b4.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/c506d66d1227406.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/98249b9b01c0470.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/butter/5026221e184a4f0.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/leggings/78bb0f8029d74f1.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/dfc48ae2e9f249f.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/slipper/74560a0ced284f4.png,Slipper,233
+yourdatapath/objectNet/objectnet-1.0/images/blanket/c00ae4ec3c9a421.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/jam/a9426d1faaf642a.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/bed_sheet/0c1cece9ba1644b.png,Bed sheet,11
+yourdatapath/objectNet/objectnet-1.0/images/handbag/f5b99af6a9784be.png,Handbag,117
+yourdatapath/objectNet/objectnet-1.0/images/calendar/7b4224b467ff4af.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/e173ee7de363432.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/34b34012e6e84d0.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/cheese/78f0c08d93e8422.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/9bf03c8c6c454b1.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/d9bf3fe978d6454.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/tongs/0462891a8a2e49a.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/ice_cube_tray/72a91c9b9e044ce.png,Ice cube tray,123
+yourdatapath/objectNet/objectnet-1.0/images/peeler/18ed6c6de4c8464.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/hat/f8987c83d54c4dc.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/tissue/58ca7d1266d04bd.png,Tissue,273
+yourdatapath/objectNet/objectnet-1.0/images/ring/b09b1e1701b446f.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/b9b70260a6f1497.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/leaf/3a02442346f6449.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/spoon/90f9ada8083c4ef.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/fc7e2388113e48c.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/fork/dbdd3324a7e5437.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/tape/fb668cbe348148a.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/d07d3235090e461.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/b57a98fde49649f.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/3e9b4818facd447.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/e24f6e0a52974b6.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/cheese/b6f0fe7bb5ec464.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/paper/1aeb40f189ed4b5.png,Paper,176
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/ec143beee204442.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/fa2cd206f80c449.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/fork/86b94b3c25f8484.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/d017308ff4f1455.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/fe2536195dc74a9.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/db36db334ab34de.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/1aa521976986400.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/ice/e1be9c326c07429.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/fe8f0d3a66554e0.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/earring/21fe3350149141a.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/ice/11d16ab1f16449f.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/cb942029704642e.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/marker/032267961471408.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/spoon/c14e0b0c9d204f6.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/nail_file/54a203c37d38461.png,Nail file,161
+yourdatapath/objectNet/objectnet-1.0/images/battery/20a3b8a03adb450.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/blanket/ef325a237e114df.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/9279d4ed22f344d.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/ice_cube_tray/6ffb220503434b9.png,Ice cube tray,123
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/cef2d3d48bca4e1.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/b6dfbd69b6774ba.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/6aafa85351e14db.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/16b1a572c0c8490.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/79e9211034024cc.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/f976e04916a04ce.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/f02e952b39c444b.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/nail_file/45736a4131c34ec.png,Nail file,161
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/8aa69ebe3fd4485.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/78dc447a6f0e4c0.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/3de939c4c9bc477.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/cork/5bb7e99c2437420.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/egg/ce9c972a63c14d4.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/leaf/8c7f31dbd49744a.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/2133add99cd141a.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/blouse/bb3e5f898710427.png,Blouse,23
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/712c227688f247b.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/spoon/fcefb99cd455423.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/a35b8196204e4bb.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/0c4e0a655c0049d.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/headphones_over_ear/cf70b8deb7e441e.png,Headphones (over ear),119
+yourdatapath/objectNet/objectnet-1.0/images/removable_blade/351080e05f3f4fc.png,Removable blade,211
+yourdatapath/objectNet/objectnet-1.0/images/loofah/629414c2604549b.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/pencil/f4cef380a84048f.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/06f8cc2426a9446.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/3a0c206d93dd446.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/hat/0dab779a8bbe49a.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/7690ff2fb0dc471.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/7d526cd29375465.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/pliers/27123ea19b024cb.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/f7144b918027444.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/bd827597eacd455.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/baseball_bat/ed5fdf5d1a38406.png,Baseball bat,6
+yourdatapath/objectNet/objectnet-1.0/images/bathrobe/4f9726c342dd454.png,Bathrobe,9
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/6e796e1e1e324f2.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/2a47ea14182841a.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/e5305e8899ee41a.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/7ed75d285e7d4e1.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/tongs/92581db9bc7a48c.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/d231eee90ec344a.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/butter/155054202bfb44c.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/f344fec3c332404.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/d595ccac66c34b2.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/jam/c7fbee538abc4b8.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/647544bd4b02477.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/cereal/bce576a11a2342d.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/316df5772c03417.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/2e5ab2b356fa44f.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/nut_for_screw/380fb68d5bda46a.png,Nut for a screw,170
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/e15c202f825c406.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/boots/17b8028542ff4c2.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/e1c64ad87321427.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/wrench/fd5499b4e69b4be.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/blender/f67ba1d96ab9439.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/teabag/a49dd02c44ca424.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/e3c34eadf0a44cf.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/egg/40298bd6c4c9497.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/5da80a1fd72445f.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/spoon/bcdce3b912084d7.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/48dec01ce56a476.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/earring/18b5749a816a40e.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/f327547c629744a.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/abfb09a90f2a460.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/bd65034f63ac49c.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/rock/d5c5f95326154eb.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/wrench/361220b532064f4.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/af71ac3690cb479.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/razor/b2b1081ffa4b4da.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/6a2b8eb11b9e4f1.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/jar/b95837cb4bbb4b7.png,Jar,127
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/1f12642c6e0143d.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/button/9a4a6079ee4146b.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/9bc4e27d6a254c1.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/dd076c3c72ed4a8.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/d73697f77be743a.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/de8e8a07559f4fd.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/butter/67d334b66fe54cd.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/12327799abe04b0.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/7b76ef0fc0c947c.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/536dbfbc3fba4e0.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/5e24be67ad594d0.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/dc1b2258642a4f6.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/spoon/b26defcb111e44e.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/00979387c0b949f.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/53c49b669f7d423.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/e633ce88cc61449.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/3b73c59c56864b2.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/f3d685d352d9417.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/egg/899e9c91025e434.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/eb9380efdd3649a.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/842f3ff15ecd40f.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/1ec9d9201779439.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/ce7c992657f845b.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/blanket/1b466c943fb740e.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/725b1d62c5c6490.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/80947400e365453.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/25ecacc4fd8b45f.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/tomato/502c93e190c34b0.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/c096c71dcac24a5.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/removable_blade/bb4878779744452.png,Removable blade,211
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/3662536e62e8431.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/fork/92afb8fa0eb94b6.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/a6a2adeef1ab49f.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/8668e335377b431.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/comb/0e7ae29e425141f.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/ring/54f7ce340e464ac.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/66f6004bea4c4b7.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/scarf/dc80386a368e41e.png,Scarf,221
+yourdatapath/objectNet/objectnet-1.0/images/cork/3746c6b50f8d445.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/2576dd73a5d44c1.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/2cbf3cfb278f492.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/c8e91abcb7844c2.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/pliers/7d91a9252b2641a.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/3b4bf8a2893446d.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/f70103588ea148b.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/2641da9d15db458.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/ring/15d086255f13497.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/comb/4b5707cfb8364d7.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/2e302c4283ff49c.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/991d85c2488d4ce.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/020159a67ab04d1.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/tongs/1514397e4dcb4dd.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/1ee7f305c57c4ba.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/peeler/44a21a4722b04cc.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/a6a73acd7884481.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/740c826acc764f4.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/eba9d484610441b.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/10308749e5ca4f8.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/f47b96d2e492491.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/80e2c7ea8d754bc.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/egg/947db271318c407.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/79a817a8223a4a2.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/cd050fdc758449c.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/cereal/29a0a82e03f34d5.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/cdcf6986d307438.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/37a93661b564443.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/158b58d7963b425.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/ff8cdcb36622488.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/77a91a8c70a8471.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/a78b029b9bed4fe.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/d64e89487f5e45c.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/924664d87f604c5.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/scissors/3681f26cb27a4a3.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/button/15be2753b97c465.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/afa43ec2b907418.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/usb_flash_drive/213964723d0246d.png,Usb flash drive,291
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/088bc99449cd47c.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/loofah/c7a92d88617e4c0.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/shorts/b397e64d1e504ae.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/hat/ef716163f3f448a.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/e4191dbf1c164ab.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/biscuits/b6466af0f7b247b.png,Biscuits,20
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/7f097afc17ae4e2.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/ring/f8f9374968a94a8.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/razor/484229fb7d264f3.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/156be7aa2aa147b.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/0247f23d1d0b478.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/stapler/8690ec598ff74a3.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/70e69312a95442a.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/cf9dd0ada94a48c.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/milk/d24b0543cdb94d6.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/71fdb9379158438.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/e4a1ce190baa489.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/9a528aa210e841c.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/toy/0a789bfc95744b2.png,Toy,281
+yourdatapath/objectNet/objectnet-1.0/images/kettle/c97629c4a98b4d1.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/439626bb2df24b8.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/a972659dbd514ef.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/41830e43c6794ea.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/578604284f5240b.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/b8a3b53395dd4ef.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/comb/b2ff44373a7944a.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/tape/129cd3d2bc534b7.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/c5fc135b78c842b.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/2f71ef3ff93545c.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/c9f175c0174e40b.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/tape/0146bfd43be349c.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/battery/2f0ff3daed9947d.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/2973db95944948c.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/f94f808a6a0c493.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/857833d5ec40428.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/8f3711a1d4c9461.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/7deef309d52844f.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/52b60fd752974a0.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/08cd125e11e1428.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/butter/ca49de12ab0841e.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/marker/aae186000c20436.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/06c581239d444f0.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/62dd685ffd6941e.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/0e801ccea63140e.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/b0aa7280996546d.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/wrench/9c723da61b3d456.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/ae4c5b13d800468.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/2c9a31ffb703498.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/belt/9842842c61834e2.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/coffee_beans/7d7304e1111944e.png,Coffee beans,59
+yourdatapath/objectNet/objectnet-1.0/images/toy/fcde8d2b2c754b5.png,Toy,281
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/069c3e542684447.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/89c5fc669987463.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/d5ba99c00778473.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/blender/64099bb257aa465.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/earring/3d0e636dfb654e3.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/27ca0c835a9141a.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/0550e7e4c2c845c.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/0a3925e43562415.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/butter/0315614cc0c44b3.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/1bebf6cf451b478.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/button/71868d3c5e4845c.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/8af7022446274ef.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/bed_sheet/bb55480e0db24f6.png,Bed sheet,11
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/8bc3b5bf22984f1.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/multitool/bc24d8ba9a56486.png,Multitool,158
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/bb15295c04cf49b.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/3298388e025e49e.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/93c1637f6abe47e.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/ice/ac5b823dc4ed45f.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/849cbb252729480.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/comb/4807f088bfcb4b1.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/05a0f6466ec04ab.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/sugar_container/b42748d3bc2c425.png,Sugar container,252
+yourdatapath/objectNet/objectnet-1.0/images/hat/e380c5eafc3b422.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/6f9a77f6e03f457.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/7e4f60d43dec444.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cork/00536e86f1bf450.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/5e0ed00d46a341c.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/ce2a0b478a544f0.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/642d1e093e20487.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/leaf/2d52db6a3478493.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/29f75f2ffdac4e2.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/slipper/1f4eaec8c170498.png,Slipper,233
+yourdatapath/objectNet/objectnet-1.0/images/video_camera/5341864f51fc4c6.png,Video Camera,294
+yourdatapath/objectNet/objectnet-1.0/images/marker/a826da54007040d.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/a37da19b4068473.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/bc17e2ef297f45a.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/wrench/9237f71acded403.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/photograph_printed/49bee899544b449.png,Photograph (printed),187
+yourdatapath/objectNet/objectnet-1.0/images/boots/4c80ae7f368d4aa.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/travel_case/dbfaa59eb22d482.png,Travel case,284
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/3f7273debd3249b.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/c3442c679a574c3.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/e268ced585884a3.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/c5abe224269a4a1.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/a6d57b020890410.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/00ba703925814eb.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/ring/6b5cc23d35a142a.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/video_camera/2dffb6fb33d3402.png,Video Camera,294
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/632c8e282019472.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/e1b81b250947439.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/2241e76c1b48418.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/ribbon/73a574515de94e2.png,Ribbon,212
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/b38b0a8d95f9481.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/stapler/267cc216efe84eb.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/502a2795b4464c5.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/shorts/e4fbc289c72d452.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/d5c94844dd6e4ab.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/4740ac3c21be47a.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/marker/f2ce7a6afe7b4bf.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/9f7fa89a48b845a.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/a3613ca3a4114d7.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/1f7ff938ed4d46a.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/5699d0cd3b804d2.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/ef6a62bd0f3943d.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/8be96a2d3d8c49d.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/water_filter/21842cfb477d446.png,Water filter,300
+yourdatapath/objectNet/objectnet-1.0/images/whisk/717a4f6bc428462.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/hat/ebd937c0878d48b.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/belt/cb9c1ae9726546d.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/0d122639a918406.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/89111569cab14e0.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/coffee_table/185f4372a130444.png,Coffee table,63
+yourdatapath/objectNet/objectnet-1.0/images/egg/8c6ddeb53c854c2.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/0f1f466022c3452.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/505b29c226a742e.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/33293736c47c4ea.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/69a6313e4d904f1.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/f6e76fc9d2de44e.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/0f400c024301438.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/17909d8bd44a472.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/razor/69d255e42df642b.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/cd50944b0ba64b3.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/battery/621eb559f3af46d.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/06679f00ae654f9.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/a30bbc5b287d464.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/biscuits/20f42a27dd1c49e.png,Biscuits,20
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/180856ddce604b3.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/board_game/8820373d259d4ca.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/59e77ce2aa9c4ec.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/cork/9b037547b7b846b.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/lettuce/857bf868a3b448e.png,Lettuce,140
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/b0032e42df0f4d2.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/lettuce/71ab2df1f8e8492.png,Lettuce,140
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/a82ad88265e747d.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/sponge/1ce36c66b434489.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/tongs/ba7aecfbf962472.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/1e867418bf16453.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/tomato/b723ca018ec247a.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/2bf4c48406334b2.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/handbag/32bd7f85146948b.png,Handbag,117
+yourdatapath/objectNet/objectnet-1.0/images/leaf/cd5ce841234d426.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/battery/b2f526a209e841e.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/8a23209c9a98429.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/50ce606141b4438.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/ea2550333d904c7.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/1b83262f02114a1.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/cd845fe0b5c14ab.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/e191eb94ebd9473.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/5ced27b25f974da.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/box/8a9726657a52470.png,Box,31
+yourdatapath/objectNet/objectnet-1.0/images/milk/38329aa0813c423.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/shorts/5385f84ad9b5496.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/9858afd4b2454d5.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/432707a5a9ef474.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/magazine/5d37f85466724fd.png,Magazine,145
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/05fd5eea12bc466.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/d0de7f43a369471.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/90f3fdfacc8a4e7.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/bathrobe/01eade8962f848d.png,Bathrobe,9
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/4c26a0ef48cb42d.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/7a138fda9c844e1.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/7d004e08a0b64a4.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/8d67ce7d6fa2469.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/fd9f5ab74982404.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/3ad1a72d1d26416.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/edcf60e2f2a5429.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/4a942590cb634e1.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/9f55092b6db7402.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/0be6d715fa044dd.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/669ac0057d3e44d.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/d1626992ba9547a.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/egg/734ed5f081c54af.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/butter/a33548c2f820435.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/comb/417ccb08dc6d48a.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/797aef17d1b4426.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/6e312d6261fd4fa.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/egg/b2baf78c6349478.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/0d7de12bdca44a4.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/box/8854135eb9a1420.png,Box,31
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/ff6b435522d8498.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/a7e7bfcee2e5495.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/pliers/fe917b6220f2480.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/cereal/5995c66454bf428.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/ff27375ee690490.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/tomato/22608a1afb484d2.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/scissors/cfcf0ea34bea442.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/97f84aeceb584c3.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/sponge/af8bc5c5558c433.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/comb/ec9e06ed0691415.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/nut_for_screw/aee09c98e01b4ff.png,Nut for a screw,170
+yourdatapath/objectNet/objectnet-1.0/images/rock/998ba88f053240f.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/5a013a91e3394bf.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/db98f549e2244b1.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/teabag/030c757a9f48461.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/e14ea10a74fa4cc.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/wrench/92346434af02496.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/button/3c0f965a1dfb4ce.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/7c353a07877d415.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/headphones_over_ear/afd321a05d744e9.png,Headphones (over ear),119
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/1a955be93283413.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/c0654e09c9d245b.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/88dc63de1691451.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/ring/5e999825b8c1463.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/03053e0ad1294b4.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/73912488f1f44ff.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/b16e510442e941d.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/sponge/092b3385081b4b2.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/865cc620ce0343b.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/belt/cc282c9317374cb.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/5e7967c9575b4e4.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/dcbe907529aa463.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/354d4a2e231646c.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/301367ad4c7f4ff.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/detergent/d1c2c06fd0b849d.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/nut_for_screw/5bbaa4fc9d22472.png,Nut for a screw,170
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/0e7c97916aa0480.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/59e82a5359814e0.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/cfd3d89e5a164b2.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/463ebe240bf74c1.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/b828c0df57b94f9.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/aad0d76af85f493.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/8a27f3adf76342c.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/97fb70a1081e40e.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/coffee_table/4c1f0ff00b6642d.png,Coffee table,63
+yourdatapath/objectNet/objectnet-1.0/images/belt/be36b606bf784db.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/7e84cd0829f4438.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/blanket/e64c9bf8ad5d456.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/db923d1f0264484.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/11689afab7bf431.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/belt/8d31ad0a6e3845c.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/hat/154fde8ce05b497.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/1892d1a2303d4ea.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/2fa15ff4d80c43e.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/razor/e4c60fc494df4db.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/8e0ced5bcd6e41d.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/de07bdee5859451.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/2866cb975eaf4d4.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/dda245d05249441.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/baa25d44ec7647d.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/f0a7279dd78c47b.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/pliers/c27427a1273e4a2.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/comb/3fd3f917aeb2454.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/faeacd9383d544d.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/jam/bc614b2448ee4dd.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/9c2e47fd5083457.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/16f524f1bb00462.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/wrench/a9788cfa463b468.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/a8a2a6103bfb419.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/blender/55fb9ba56ee84f7.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/wrench/046fb2f04d0f44f.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/coffee_beans/df2e05a5815649f.png,Coffee beans,59
+yourdatapath/objectNet/objectnet-1.0/images/egg/276fea62f164488.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/loofah/3bc4723deb11407.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/0f50da2780664bd.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/belt/47032688cf3d4eb.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/sewing_kit/f33f0aa2a03d450.png,Sewing kit,225
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/cabb5abaad7048a.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/38c87366ec29422.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/3e55a5310c014c4.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/sugar_container/299aca72e5744ea.png,Sugar container,252
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/f773c9eac9d94fb.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/spoon/ae8f6c4ebe0842c.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/b59ef27f65ab47e.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/2f3d1f2da1c3492.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/e7888fe2e8374a4.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/cork/66aa8611bca4485.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/22bcb9af9f67487.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/pencil/fbec1110b638462.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/8412e0e380ce45a.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/99f88510565149e.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/mouse_pad/10f047532106470.png,Mouse pad,155
+yourdatapath/objectNet/objectnet-1.0/images/handbag/30887a05132c477.png,Handbag,117
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/1cb986a1275b40d.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/0fe3e6a052274a7.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/napkin/d08830a02e0a4ec.png,Napkin,163
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/a7d62404a6484c9.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/02a57a80d5a4412.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cheese/ae48ea7bddf64e1.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/board_game/e6699f9500e34de.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/rake/98153ef8d1034fa.png,Rake,207
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/efcb99c7cd734e3.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/449f977045d140e.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/c367fbe6aa084b2.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/pencil/1e9f7363393e499.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/a115bb23a04e4aa.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/bc6ee40712f443b.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/5e62ac5f08154a5.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/041cbab91ad4426.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/09d7cec8461d479.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/leaf/27744d9cb7564d6.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/fork/629972aba95e419.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/sponge/6bf96f759f82443.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/038295efe236465.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/placemat/832f5473a58048a.png,Placemat,192
+yourdatapath/objectNet/objectnet-1.0/images/jam/5e5d0e376bdd485.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/leggings/bb150cd977a74fd.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/blender/7f85ab95a9de49a.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/fba402dacdba45d.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/7079cea8ed4242e.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/board_game/a59f0f397a0d432.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/cdbe416f2a6540d.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/959296c3b5c24e0.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/e6d8c805e569471.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/1a252157d628424.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/f66e0b25aaa7406.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/d3f68a03c6324e0.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/peeler/079fba8d5ffd4fe.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/e53ec2cfcf7b4d4.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/d2fe633278c14fe.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/3cc39c11bb20420.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/51a4a82b6bb943f.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/butter/968cb222088f424.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/hat/c841a9b1a5cb4de.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/51238fb0a6c8478.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/ee0eb646976b435.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/91ed00dd815e41a.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/31257e1518a54b5.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/pliers/0cc7bff8f29b40b.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/ab1f2884ebbe4b8.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/ring/a8c1f7bee1da4e3.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/comb/6fb4771c14c24ac.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/b03d00184b7c4ed.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/milk/c5f7827ef326433.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/cec43b425dbb410.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/earring/f66ec377630c44d.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/93ccdcf29f4f41b.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/flour_container/fa6a8b294a85459.png,Flour container,105
+yourdatapath/objectNet/objectnet-1.0/images/wrench/cb8aa14f8cb3421.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/555d0f485d574ab.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/whisk/13635fbad9ad4ff.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/hat/5576025693be481.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/cereal/f6f96914e16940e.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/teabag/9f2a0d38deee474.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/ca3028d43cc34dd.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/tanktop/7d20f74d8ede4e4.png,Tanktop,262
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/086236fa2bf3444.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/pill_organizer/cb0d4d830bfd4d4.png,Pill organizer,189
+yourdatapath/objectNet/objectnet-1.0/images/pencil/2fb460224e6b4e8.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/e6fc68fed6cc447.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/89c4154a2cbf420.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/earring/623c622ecb1d490.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/95b708ca53fc4ab.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/07b317fb50a54db.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/thermos/4fda64f38eb242c.png,Thermos,270
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/f3e73f6aa18c46e.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/962098ef9f8d497.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/ebe551b1b668438.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/baseball_bat/ef91830710954e6.png,Baseball bat,6
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/4598da5c9204496.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/tongs/7a015272d565487.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/calendar/8833b81afee04e9.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/tape/8447bf00cc48467.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/nightstand/2120259bbba1465.png,Nightstand,167
+yourdatapath/objectNet/objectnet-1.0/images/razor/9551f25248d4499.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/13f16b3e130c466.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/a3688c600ce14d8.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/2c9ac8719af84a6.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/rock/6607f5aba7dc406.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/7d673359da7d4f1.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/7f9d7bff9ec6447.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/d2ecbb9cd25747b.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/35b6a3843d41446.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/a7d3eea6d034498.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/sponge/430b493f2a634c7.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/rock/db17cdb775de444.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/milk/a4568606aeec4c1.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/leaf/a4ca70d84cd84f3.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/c65d53e4c3e24ce.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/de2122e353a7489.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/4833f64254e04e4.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/belt/00fd4d9d875840c.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/detergent/7ac2fe867821499.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/sponge/c4beb4b25a1b425.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/fork/ed300d147973421.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/3fe7be5a2b8f4bf.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/22306c401427492.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/8af11c4db07247e.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/cereal/13e8053c69f1461.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/e9575f37245448d.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/2d12c96711b54a1.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/wrench/adbb5dc9cf2f4d9.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/dde0c1dd37bc401.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/15eb923de75c4cb.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/c99e0f4d9254466.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/156e8eabb240418.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/8357325786e14fc.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/a86beb32eccf4b9.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/spoon/c3cd30eb989d4d0.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/razor/6f256496b9e14cd.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/983685331d914e2.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/b8c5dde4d85d4f5.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/coffee_grinder/30904b0dd6a4487.png,Coffee grinder,61
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/d3564e831e7248a.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/820ff3a21c46497.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/tomato/29629e74e0d047d.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/8b765558d4ab4fd.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/03e491786a154de.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/534d04310d31452.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/razor/ea0afa336ce44f9.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/cereal/5e89cd53bf2540b.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/toy/d2710172f67e411.png,Toy,281
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/8e9d1f70273c4f5.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/d837c1e830f6482.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/boots/367f9c6db10c4d0.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/blender/84a206ed38ef486.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/marker/d922cbdd760a423.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/wrench/9c30fac17cbd40b.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/c82ad7a28ff54cb.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/ring/12b43dccbf514a9.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/4c0388117e43436.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/1ca82f3ab4a3494.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/668ff7a2c78741e.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/boots/f2969f35319b407.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/7ae747cc610c44f.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/9ee59d8a3b524f2.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/board_game/a783db3aba8b462.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/a00ec51a9e5d4cc.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/50e7829a10e2414.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/napkin/6b5230db95cb403.png,Napkin,163
+yourdatapath/objectNet/objectnet-1.0/images/comb/1ceaa498e930424.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/magazine/6717592745014ab.png,Magazine,145
+yourdatapath/objectNet/objectnet-1.0/images/calendar/6b76175bb6f243e.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/scissors/0e6d0202f121404.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/70012b8fd9fd4f8.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/e8c4631e5d1d4f3.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/butter/4619fc369b53442.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/663a62dc46c14e5.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/d771d52534ec4c5.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/teabag/bce3cab98ec34b9.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/a49500adafd74a7.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/trophy/a8def82c3505428.png,Trophy,286
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/4289c837fa074a9.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/detergent/26b18d91136740f.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/coaster/fbab1cd5a4ca430.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/kettle/834b678e5baf465.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/tomato/393981581dd3452.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/6ff140f473fb47d.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/89b9c17dd3324fe.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/napkin/f7c56783e7664f0.png,Napkin,163
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/6a0aa17b137b43c.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/4e1d0308d7914a6.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/99ed07510bf7485.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/5588777d491e401.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/tape/922c7fada241486.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/tomato/3b84227ce11341a.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/marker/e29749f2b58e4c7.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/shorts/f05a16c35f60467.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/bb45479e40854c5.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/boots/65b11fd7a9cd447.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/coffee_grinder/105c86612c67468.png,Coffee grinder,61
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/a219241063af4f7.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/leaf/76260335bad34a6.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/whisk/8a30672a0149465.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/battery/b70af176b4e3494.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/cereal/6d5079e59698428.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/981f91f650be402.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/9a28fb12fc474b5.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/d24d43fdd651473.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/0befd02baaa442c.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/f7496b4831314fb.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/5905923018084d8.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/f02bed1bccc7489.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/coaster/dd90379be31146d.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/shorts/e782ed99cc474eb.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/7ab71a2c6a504b1.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/66cdcc760ea3470.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/065178be99694a1.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/wrench/4b5ecdb4cb994f1.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/belt/03bfa9ed66c346a.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/kettle/28ce54259e87422.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/644e2e4d99104f7.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/ea118c82c3d949a.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/68cae1db2b92482.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/tape/04ed835b7de8497.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/649c356e9379464.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/belt/6fcf899bade7445.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/292285eecdd245f.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/battery/2f62f5df0d1a43c.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/6133364c28c6455.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/5090163e88af4bd.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/notepad/fdb421edd279440.png,Notepad,169
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/022673807d7f46e.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/spoon/95ce0a0e6c2f46a.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/b049fdbf271d4db.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/3f863a677069474.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/de299f15bc40454.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/38753d2ece3b4c2.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/c758e8c0e19a47a.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/button/b63e485cb7f0477.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/935d3d68100a490.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/17fc969aa5f548a.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/b58cd73cc5e6497.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/142320bf75c9440.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/blanket/00568ae8dc684a1.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/81f29f9bdcc94e9.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/b6b67102998c458.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/comb/ee0b23a7f2b1437.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/detergent/b524459c226f479.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/3a79d0b8ee20476.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/razor/e48b4a65c62e4c8.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/becb7870ceb347e.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/1ae5914d4db94ae.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/1b6f101db4ec4e0.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/14fbd9f130f7481.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/c8e45427c3c14c2.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/fork/d7ee9bc5d3374d9.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/30690b9b8eaa436.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/4465f5739b8e4d6.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/374a1f9ec1f94cb.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/d5e32b29d323434.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/bbf63aa979fe49e.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/board_game/1a88e373e07e474.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/stapler/1a52d30d314144a.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/7ee6baf1e7da4f9.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/928fa8f6632245d.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/belt/67e5ce21c5b94c3.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/tanktop/95c266310156466.png,Tanktop,262
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/8a208b9cb155476.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/rock/297538b170ce4e1.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/0f952555696a413.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/77ad029b419044a.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/f2a30498d94440a.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/e151009fdbf340b.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/e3c87d013aa040c.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/coaster/9812c9f822cc4c3.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/572fb0c3f18e486.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/webcam/22561fe6873347b.png,Webcam,301
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/4b0cf52657f14b2.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/3ddf415a0835422.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/b32f525ba1c8450.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/belt/699b31ee8dba4ed.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/eef2ee5d13974b2.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/blender/76991a3876b2456.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/stapler/d9d52c2914444c0.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/butter/7af091183036464.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/slipper/b141b1cd8c86432.png,Slipper,233
+yourdatapath/objectNet/objectnet-1.0/images/cheese/13bc439db472429.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/77f439530739400.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/0128f0dcac5e4f4.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/pencil/c8c9d9f7686e4ac.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/faef9cf70a6940f.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/7f540dd0f53d426.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/893cd02ea1084e2.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/blanket/4b80038d1c90423.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/7ee169ab81b0413.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/marker/fc47c751446d443.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/da7c01c1910542b.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/285c6875ce4a415.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/0834e7a19ec94c2.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/comb/0dac9eb0aa0b478.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/4465954d11154d8.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/butter/b32fc2b611744d0.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/headphones_over_ear/ceeace80507444d.png,Headphones (over ear),119
+yourdatapath/objectNet/objectnet-1.0/images/milk/c81d8b0b1e8946b.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/mouse_pad/71f2220ede204ce.png,Mouse pad,155
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/dc8d56bce06643e.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/belt/95554f13371b482.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/baseball_bat/842c5709941f46d.png,Baseball bat,6
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/2d404e1901e140a.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/30f28d06269945a.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/d1e6f6464e7743e.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/f1fbee84796242f.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/earring/7dc1d183392c42f.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/hat/ced6083b8b7c456.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/adbf0141bfc94a1.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/ring/07af4947ce5942b.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/rake/cb6fe5c9ad114a8.png,Rake,207
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/1fd3855b4ee4426.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/476f926bb7b44ea.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/86f9ad57328645b.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/scissors/f00ac48a742146f.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/poster/7d6d297b3119407.png,Poster,202
+yourdatapath/objectNet/objectnet-1.0/images/calendar/0183913608034f9.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/3f132a8efa444ed.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/895c00ff42a8400.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/102a2b8eec3f480.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/ec8b0316588d4da.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/dbee97f94e24418.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/coaster/ea622e4793514b8.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/7490f6872b27449.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/78887af22a18498.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/tongs/e65acbd21ab94cd.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/tape/cae32728dfae46c.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/3a50042630454f4.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/webcam/cf677f097070467.png,Webcam,301
+yourdatapath/objectNet/objectnet-1.0/images/honey_container/abd1cbc0c31948e.png,Honey container,121
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/1f5311c9c872479.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/b3da70e8f082476.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/86de1dfb729b454.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/d5781a37cacc4a0.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/898cab22424948c.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/198bfed7d3624b4.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/comb/95f851168a92409.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/cereal/67344d1593354ec.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/coffee_beans/4f3ec16ea5b94b0.png,Coffee beans,59
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/f1549757127248a.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/fbc3107179274b0.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/5a00bc76feff4e1.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/butter/9a270cfa7c12453.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/egg/9982a609f43246f.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/ice/1c06c550cd40412.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/dca9684d2d924a8.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/photograph_printed/9dc015a5d2e24a5.png,Photograph (printed),187
+yourdatapath/objectNet/objectnet-1.0/images/trophy/18c63882ba95446.png,Trophy,286
+yourdatapath/objectNet/objectnet-1.0/images/cork/f207107b021e4f5.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/trophy/8848469e34f9433.png,Trophy,286
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/e3f1f3bdad1f489.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/7a3f0d27283540e.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/cb11c756aa3f46a.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/8f2de1ae4f83468.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/d2ff521d5a99422.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/whisk/c8a80a372876454.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/30417738bf97489.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/283cc99159df423.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/b220f6edd53d4a1.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/a0b6e926c9f3428.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/b081bf18d2e3448.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/4dc70f5766c348b.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/whisk/3e4653ea8e5c4e4.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/d99ca0a51c0c4d9.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/ce75eb3f06134c8.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/024136b25d454f2.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/f72e69249f06467.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/aae06ff11e9b489.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/leggings/705b9b463a51498.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/59d598afccdd499.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/leggings/7fcdbe4834eb4d4.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/spoon/95f846bcc980445.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/spoon/e705f470e07a4b9.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/04856a228f264ca.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/pencil/528284c041484db.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/nail_file/ac3d517de08542c.png,Nail file,161
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/3f822918b4c04e6.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/7e6f719f2800449.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/pliers/a7c5e51bd7124c3.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/df0ab99f288a41e.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/0e71db58de4a4d7.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/usb_flash_drive/7e6fcc2c83c441d.png,Usb flash drive,291
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/677bee93a199479.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/milk/a1b1a906cd0444a.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/e10478b1d15c465.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/7ba0a71dd974463.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/e432dc4f025d49a.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/63c79fd885e246f.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/c40a4f8c6f7641e.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/c37f1e797ff74ce.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/a89c0c43afcf402.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/soap_bar/d7b14bdfb9ce41a.png,Soap bar,234
+yourdatapath/objectNet/objectnet-1.0/images/peeler/4399ba6dd304489.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/9490f961dde5406.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/c611c08348a047f.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/f75bd0ed3089411.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/stapler/e6595c1b39ef46b.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/975cc22820ab4d0.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/video_camera/32e90fcecc2e49c.png,Video Camera,294
+yourdatapath/objectNet/objectnet-1.0/images/webcam/a2bab81c98b9481.png,Webcam,301
+yourdatapath/objectNet/objectnet-1.0/images/pencil/b637e9cb1ea147f.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/09e18e0a3f594c7.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/25a742752557441.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/15f73c8256d04c4.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/cereal/859d231f76e24d2.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/dc025580a635499.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/milk/ac2dbafd40f4499.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/thermos/3c71320ef9d7452.png,Thermos,270
+yourdatapath/objectNet/objectnet-1.0/images/power_cable/a1a54941f9104bf.png,Power cable,204
+yourdatapath/objectNet/objectnet-1.0/images/hat/54f3c32dcbb840c.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/d02fc5e339dc43b.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/board_game/a00f7b881b5b499.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/10a1a78685194b2.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/sugar_container/168775e78bd74e1.png,Sugar container,252
+yourdatapath/objectNet/objectnet-1.0/images/briefcase/5229e6db38fd49b.png,Briefcase,35
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/d1eeacd299a6448.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/usb_flash_drive/b95ed2889f2a453.png,Usb flash drive,291
+yourdatapath/objectNet/objectnet-1.0/images/shorts/75c194dccb9c40b.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/7f937db5e6c14a2.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/notebook/fea3d90a41794b1.png,Notebook,168
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/68c0a5108ee346e.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/ed3dd6ab959e464.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/coaster/42bf2d250e9e4dc.png,Coaster,58
+yourdatapath/objectNet/objectnet-1.0/images/ice/bdb172adabcd43a.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/530f45bfe38d47c.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/2a33fd194b63409.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/rock/a0e88ae9a6204ef.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/d1c80174a8ae488.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/soap_bar/1578b0a7950b4ce.png,Soap bar,234
+yourdatapath/objectNet/objectnet-1.0/images/tomato/39f0241d982e4ce.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/d13ce7b030b74df.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/blouse/a43fe33a7b4b473.png,Blouse,23
+yourdatapath/objectNet/objectnet-1.0/images/battery/2d958e6894104a3.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/7397ec2ae9104f4.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/paper/7873586f20a648b.png,Paper,176
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/d8b4e02bced84c5.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/loofah/287964d0c7a14fd.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/1ee64abf2419471.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/08fa4895cfaa488.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/leaf/c6ba8f8718a9406.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/85a2456062784b3.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/ed02ece59c59442.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/e2ba761811b44a5.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/d629a10a79bb4d1.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/4f2b6fe4b115402.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/pliers/890520d785a1480.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/2d03d4a7912d404.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/c7592d8753b74ee.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/769cd901f5a4417.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/39211e2625c14c3.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/cc5f8019074b403.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/c2ef8c0897fc452.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/fd3e023e46bd415.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/razor/246f8a83cbcf45a.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/tape/816f3012c29a4bf.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/whisk/a23940b02c584a9.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/paper/65dcf0f8540446d.png,Paper,176
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/6c29888bc6df49e.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/be9767a840184fd.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/receipt/76414f4a37e1407.png,Receipt,209
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/b570adcbd5104ae.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/271a09dc319f479.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/cork/f3337c3bc5ce4a8.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/spoon/39a22f683417466.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/f88a1e5ccf9e45e.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/d3762ccf82ec41a.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/scarf/ea53200ec20547b.png,Scarf,221
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/046d581ebbac4c8.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/f133e0aef6974e2.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/8542ef524320449.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/belt/a7ed1053da454f0.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/11281e4fb93d431.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/3e92965de869480.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/1759f4775792430.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/battery/da9b551e39a146d.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/70350ff9ffbd4a7.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/tanktop/ea8c2c8647ca49e.png,Tanktop,262
+yourdatapath/objectNet/objectnet-1.0/images/mouse_pad/c171b09131ac4fd.png,Mouse pad,155
+yourdatapath/objectNet/objectnet-1.0/images/water_filter/a5573cd954294b6.png,Water filter,300
+yourdatapath/objectNet/objectnet-1.0/images/whisk/f06e8e6a61814e6.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/1b35aa96cfd646e.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/99721720bdaa487.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/leaf/f3ab81b31c7b42d.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/226f89b7ea104ab.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/removable_blade/94538db4c6f7434.png,Removable blade,211
+yourdatapath/objectNet/objectnet-1.0/images/kettle/8678958aedd9452.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/af549024c08c4e1.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/48711930a1f24c7.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/honey_container/8ab7a9bf454d479.png,Honey container,121
+yourdatapath/objectNet/objectnet-1.0/images/paper_bag/31859c8f932f412.png,Paper bag,177
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/56b20467482f4a5.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/blanket/77cb1ccefb45468.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/496cdd96906442a.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/8dbb83ee0d41405.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/cheese/ca28f81e74164ff.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/bba2fd3e54604a2.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/7e4648395152482.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/909006ae58d248f.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/e4bc1c5fb74443e.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/brooch/52cdb8adfa89439.png,Brooch,36
+yourdatapath/objectNet/objectnet-1.0/images/cheese/42e0104867a6446.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/ice_cube_tray/c6e39c490a11486.png,Ice cube tray,123
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/c5a36105339545c.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/board_game/368653a216f3437.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/placemat/1b80186c5f4a421.png,Placemat,192
+yourdatapath/objectNet/objectnet-1.0/images/marker/4836a052e6f0421.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/notebook/79e4156b16bd471.png,Notebook,168
+yourdatapath/objectNet/objectnet-1.0/images/soap_bar/5aa1ba1beefc4a2.png,Soap bar,234
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/9663601d7e004e3.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/leaf/a6b1a70891d14aa.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/86bef9d5ae0948e.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/cork/7eb705c1a6bd4f0.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/sponge/e791a3a68cac409.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/57ef9aee32834b8.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/stapler/402bc6072cc44ee.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/jar/7c4b74f0ace8457.png,Jar,127
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/6c494077a24f416.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/478601673ec346a.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/4b029aa26d5b4c5.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/caa331a5665b413.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/3209e7a73c7045e.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/coffee_grinder/27c4cc97a3974e5.png,Coffee grinder,61
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/0235f860efc447a.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/tongs/639cb66022ca4c1.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/pliers/621247c1a3744df.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/88908a17eec7477.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/1d0d42ebb17d4cc.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/whisk/79cade4af3dc459.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/e69db7f6ae3647f.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/sponge/651fbfe4aeca42c.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/fe3b50c5679f4db.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/694a26ba472a424.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/06a05b7f7feb4b4.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/c506d66d1227406.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/98249b9b01c0470.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/butter/5026221e184a4f0.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/leggings/78bb0f8029d74f1.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/dfc48ae2e9f249f.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/slipper/74560a0ced284f4.png,Slipper,233
+yourdatapath/objectNet/objectnet-1.0/images/blanket/c00ae4ec3c9a421.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/jam/a9426d1faaf642a.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/bed_sheet/0c1cece9ba1644b.png,Bed sheet,11
+yourdatapath/objectNet/objectnet-1.0/images/handbag/f5b99af6a9784be.png,Handbag,117
+yourdatapath/objectNet/objectnet-1.0/images/calendar/7b4224b467ff4af.png,Calendar,42
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/e173ee7de363432.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/34b34012e6e84d0.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/cheese/78f0c08d93e8422.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/9bf03c8c6c454b1.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/d9bf3fe978d6454.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/tongs/0462891a8a2e49a.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/ice_cube_tray/72a91c9b9e044ce.png,Ice cube tray,123
+yourdatapath/objectNet/objectnet-1.0/images/peeler/18ed6c6de4c8464.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/hat/f8987c83d54c4dc.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/tissue/58ca7d1266d04bd.png,Tissue,273
+yourdatapath/objectNet/objectnet-1.0/images/ring/b09b1e1701b446f.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/b9b70260a6f1497.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/leaf/3a02442346f6449.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/spoon/90f9ada8083c4ef.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/fc7e2388113e48c.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/fork/dbdd3324a7e5437.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/tape/fb668cbe348148a.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/d07d3235090e461.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/b57a98fde49649f.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/3e9b4818facd447.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/e24f6e0a52974b6.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/cheese/b6f0fe7bb5ec464.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/paper/1aeb40f189ed4b5.png,Paper,176
+yourdatapath/objectNet/objectnet-1.0/images/figurine_or_statue/ec143beee204442.png,Figurine or statue,101
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/fa2cd206f80c449.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/fork/86b94b3c25f8484.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/d017308ff4f1455.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/fe2536195dc74a9.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/db36db334ab34de.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/1aa521976986400.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/ice/e1be9c326c07429.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/fe8f0d3a66554e0.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/earring/21fe3350149141a.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/ice/11d16ab1f16449f.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/cb942029704642e.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/marker/032267961471408.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/spoon/c14e0b0c9d204f6.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/nail_file/54a203c37d38461.png,Nail file,161
+yourdatapath/objectNet/objectnet-1.0/images/battery/20a3b8a03adb450.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/blanket/ef325a237e114df.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/9279d4ed22f344d.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/ice_cube_tray/6ffb220503434b9.png,Ice cube tray,123
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/cef2d3d48bca4e1.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/b6dfbd69b6774ba.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/6aafa85351e14db.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/16b1a572c0c8490.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/79e9211034024cc.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/f976e04916a04ce.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/f02e952b39c444b.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/nail_file/45736a4131c34ec.png,Nail file,161
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/8aa69ebe3fd4485.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/78dc447a6f0e4c0.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/3de939c4c9bc477.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/cork/5bb7e99c2437420.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/egg/ce9c972a63c14d4.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/leaf/8c7f31dbd49744a.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/2133add99cd141a.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/blouse/bb3e5f898710427.png,Blouse,23
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/712c227688f247b.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/spoon/fcefb99cd455423.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/a35b8196204e4bb.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/0c4e0a655c0049d.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/headphones_over_ear/cf70b8deb7e441e.png,Headphones (over ear),119
+yourdatapath/objectNet/objectnet-1.0/images/removable_blade/351080e05f3f4fc.png,Removable blade,211
+yourdatapath/objectNet/objectnet-1.0/images/loofah/629414c2604549b.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/pencil/f4cef380a84048f.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/06f8cc2426a9446.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/3a0c206d93dd446.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/hat/0dab779a8bbe49a.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/7690ff2fb0dc471.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/7d526cd29375465.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/pliers/27123ea19b024cb.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/f7144b918027444.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/bd827597eacd455.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/baseball_bat/ed5fdf5d1a38406.png,Baseball bat,6
+yourdatapath/objectNet/objectnet-1.0/images/bathrobe/4f9726c342dd454.png,Bathrobe,9
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/6e796e1e1e324f2.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/2a47ea14182841a.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/e5305e8899ee41a.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/7ed75d285e7d4e1.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/tongs/92581db9bc7a48c.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/d231eee90ec344a.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/butter/155054202bfb44c.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/f344fec3c332404.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/d595ccac66c34b2.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/jam/c7fbee538abc4b8.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/647544bd4b02477.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/cereal/bce576a11a2342d.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/316df5772c03417.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/2e5ab2b356fa44f.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/nut_for_screw/380fb68d5bda46a.png,Nut for a screw,170
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/e15c202f825c406.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/boots/17b8028542ff4c2.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/e1c64ad87321427.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/wrench/fd5499b4e69b4be.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/blender/f67ba1d96ab9439.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/teabag/a49dd02c44ca424.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/e3c34eadf0a44cf.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/egg/40298bd6c4c9497.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/5da80a1fd72445f.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/spoon/bcdce3b912084d7.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/48dec01ce56a476.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/earring/18b5749a816a40e.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/f327547c629744a.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/abfb09a90f2a460.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/bd65034f63ac49c.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/rock/d5c5f95326154eb.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/wrench/361220b532064f4.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/af71ac3690cb479.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/razor/b2b1081ffa4b4da.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/6a2b8eb11b9e4f1.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/jar/b95837cb4bbb4b7.png,Jar,127
+yourdatapath/objectNet/objectnet-1.0/images/bracelet/1f12642c6e0143d.png,Bracelet,32
+yourdatapath/objectNet/objectnet-1.0/images/button/9a4a6079ee4146b.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/dvd_player/9bc4e27d6a254c1.png,DVD player,91
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/dd076c3c72ed4a8.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/d73697f77be743a.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/de8e8a07559f4fd.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/butter/67d334b66fe54cd.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/12327799abe04b0.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/7b76ef0fc0c947c.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/536dbfbc3fba4e0.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/5e24be67ad594d0.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/dc1b2258642a4f6.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/spoon/b26defcb111e44e.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/00979387c0b949f.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/53c49b669f7d423.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/e633ce88cc61449.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/3b73c59c56864b2.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/f3d685d352d9417.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/egg/899e9c91025e434.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/eb9380efdd3649a.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/842f3ff15ecd40f.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/1ec9d9201779439.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/power_bar/ce7c992657f845b.png,Power bar,203
+yourdatapath/objectNet/objectnet-1.0/images/blanket/1b466c943fb740e.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/725b1d62c5c6490.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/80947400e365453.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/squeeze_bottle/25ecacc4fd8b45f.png,Squeeze bottle,244
+yourdatapath/objectNet/objectnet-1.0/images/tomato/502c93e190c34b0.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/c096c71dcac24a5.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/removable_blade/bb4878779744452.png,Removable blade,211
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/3662536e62e8431.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/fork/92afb8fa0eb94b6.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/trash_bag/a6a2adeef1ab49f.png,Trash bag,282
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/8668e335377b431.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/comb/0e7ae29e425141f.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/ring/54f7ce340e464ac.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/66f6004bea4c4b7.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/scarf/dc80386a368e41e.png,Scarf,221
+yourdatapath/objectNet/objectnet-1.0/images/cork/3746c6b50f8d445.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/2576dd73a5d44c1.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/2cbf3cfb278f492.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/c8e91abcb7844c2.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/pliers/7d91a9252b2641a.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/bread_knife/3b4bf8a2893446d.png,Bread knife,33
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/f70103588ea148b.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/2641da9d15db458.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/ring/15d086255f13497.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/comb/4b5707cfb8364d7.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/2e302c4283ff49c.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/991d85c2488d4ce.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/020159a67ab04d1.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/tongs/1514397e4dcb4dd.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/1ee7f305c57c4ba.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/peeler/44a21a4722b04cc.png,Peeler,181
+yourdatapath/objectNet/objectnet-1.0/images/coin_money/a6a73acd7884481.png,Coin (money),64
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/740c826acc764f4.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/first_aid_kit/eba9d484610441b.png,First aid kit,102
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/10308749e5ca4f8.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/f47b96d2e492491.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/80e2c7ea8d754bc.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/egg/947db271318c407.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/79a817a8223a4a2.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/cd050fdc758449c.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/cereal/29a0a82e03f34d5.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/cdcf6986d307438.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/37a93661b564443.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/158b58d7963b425.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/ff8cdcb36622488.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/77a91a8c70a8471.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/bottle_stopper/a78b029b9bed4fe.png,Bottle stopper,30
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/d64e89487f5e45c.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/924664d87f604c5.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/scissors/3681f26cb27a4a3.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/button/15be2753b97c465.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/afa43ec2b907418.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/usb_flash_drive/213964723d0246d.png,Usb flash drive,291
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/088bc99449cd47c.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/loofah/c7a92d88617e4c0.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/shorts/b397e64d1e504ae.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/hat/ef716163f3f448a.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/e4191dbf1c164ab.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/biscuits/b6466af0f7b247b.png,Biscuits,20
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/7f097afc17ae4e2.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/ring/f8f9374968a94a8.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/razor/484229fb7d264f3.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/156be7aa2aa147b.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/0247f23d1d0b478.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/stapler/8690ec598ff74a3.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/shampoo_bottle/70e69312a95442a.png,Shampoo bottle,226
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/cf9dd0ada94a48c.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/milk/d24b0543cdb94d6.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/71fdb9379158438.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/e4a1ce190baa489.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/9a528aa210e841c.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/toy/0a789bfc95744b2.png,Toy,281
+yourdatapath/objectNet/objectnet-1.0/images/kettle/c97629c4a98b4d1.png,Kettle,129
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/439626bb2df24b8.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/a972659dbd514ef.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/ironing_board/41830e43c6794ea.png,Ironing board,125
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/578604284f5240b.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/plastic_wrap/b8a3b53395dd4ef.png,Plastic wrap,195
+yourdatapath/objectNet/objectnet-1.0/images/comb/b2ff44373a7944a.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/tape/129cd3d2bc534b7.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/c5fc135b78c842b.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/2f71ef3ff93545c.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/c9f175c0174e40b.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/tape/0146bfd43be349c.png,Tape / duct tape,263
+yourdatapath/objectNet/objectnet-1.0/images/battery/2f0ff3daed9947d.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/2973db95944948c.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/f94f808a6a0c493.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/857833d5ec40428.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/8f3711a1d4c9461.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/7deef309d52844f.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/light_bulb/52b60fd752974a0.png,Light bulb,141
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/08cd125e11e1428.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/butter/ca49de12ab0841e.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/marker/aae186000c20436.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/06c581239d444f0.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/62dd685ffd6941e.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/0e801ccea63140e.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/plastic_cup/b0aa7280996546d.png,Plastic cup,194
+yourdatapath/objectNet/objectnet-1.0/images/wrench/9c723da61b3d456.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/ae4c5b13d800468.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/2c9a31ffb703498.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/belt/9842842c61834e2.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/coffee_beans/7d7304e1111944e.png,Coffee beans,59
+yourdatapath/objectNet/objectnet-1.0/images/toy/fcde8d2b2c754b5.png,Toy,281
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/069c3e542684447.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/89c5fc669987463.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/d5ba99c00778473.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/blender/64099bb257aa465.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/earring/3d0e636dfb654e3.png,Earring,93
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/27ca0c835a9141a.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/0550e7e4c2c845c.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/0a3925e43562415.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/butter/0315614cc0c44b3.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/1bebf6cf451b478.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/button/71868d3c5e4845c.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/8af7022446274ef.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/bed_sheet/bb55480e0db24f6.png,Bed sheet,11
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/8bc3b5bf22984f1.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/multitool/bc24d8ba9a56486.png,Multitool,158
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/bb15295c04cf49b.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/3298388e025e49e.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/93c1637f6abe47e.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/ice/ac5b823dc4ed45f.png,Ice,122
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/849cbb252729480.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/comb/4807f088bfcb4b1.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/05a0f6466ec04ab.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/sugar_container/b42748d3bc2c425.png,Sugar container,252
+yourdatapath/objectNet/objectnet-1.0/images/hat/e380c5eafc3b422.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/shoelace/6f9a77f6e03f457.png,Shoelace,227
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/7e4f60d43dec444.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cork/00536e86f1bf450.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/5e0ed00d46a341c.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/ce2a0b478a544f0.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/642d1e093e20487.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/leaf/2d52db6a3478493.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/29f75f2ffdac4e2.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/slipper/1f4eaec8c170498.png,Slipper,233
+yourdatapath/objectNet/objectnet-1.0/images/video_camera/5341864f51fc4c6.png,Video Camera,294
+yourdatapath/objectNet/objectnet-1.0/images/marker/a826da54007040d.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/a37da19b4068473.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/bc17e2ef297f45a.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/wrench/9237f71acded403.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/photograph_printed/49bee899544b449.png,Photograph (printed),187
+yourdatapath/objectNet/objectnet-1.0/images/boots/4c80ae7f368d4aa.png,Boots,27
+yourdatapath/objectNet/objectnet-1.0/images/travel_case/dbfaa59eb22d482.png,Travel case,284
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/3f7273debd3249b.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/hairclip/c3442c679a574c3.png,Hairclip,112
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/e268ced585884a3.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/c5abe224269a4a1.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/a6d57b020890410.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/00ba703925814eb.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/ring/6b5cc23d35a142a.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/video_camera/2dffb6fb33d3402.png,Video Camera,294
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/632c8e282019472.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/e1b81b250947439.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/2241e76c1b48418.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/ribbon/73a574515de94e2.png,Ribbon,212
+yourdatapath/objectNet/objectnet-1.0/images/makeup_brush/b38b0a8d95f9481.png,Makeup brush,147
+yourdatapath/objectNet/objectnet-1.0/images/stapler/267cc216efe84eb.png,Stapler,246
+yourdatapath/objectNet/objectnet-1.0/images/paperclip/502a2795b4464c5.png,Paperclip,180
+yourdatapath/objectNet/objectnet-1.0/images/shorts/e4fbc289c72d452.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/oven_mitts/d5c94844dd6e4ab.png,Oven mitts,172
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/4740ac3c21be47a.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/marker/f2ce7a6afe7b4bf.png,Marker,148
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/9f7fa89a48b845a.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/air_freshener/a3613ca3a4114d7.png,Air freshener,0
+yourdatapath/objectNet/objectnet-1.0/images/flashlight/1f7ff938ed4d46a.png,Flashlight,103
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/5699d0cd3b804d2.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/ef6a62bd0f3943d.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/8be96a2d3d8c49d.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/water_filter/21842cfb477d446.png,Water filter,300
+yourdatapath/objectNet/objectnet-1.0/images/whisk/717a4f6bc428462.png,Whisk,305
+yourdatapath/objectNet/objectnet-1.0/images/hat/ebd937c0878d48b.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/belt/cb9c1ae9726546d.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/0d122639a918406.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/89111569cab14e0.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/coffee_table/185f4372a130444.png,Coffee table,63
+yourdatapath/objectNet/objectnet-1.0/images/egg/8c6ddeb53c854c2.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/0f1f466022c3452.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/505b29c226a742e.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/33293736c47c4ea.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/69a6313e4d904f1.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/f6e76fc9d2de44e.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/0f400c024301438.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/17909d8bd44a472.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/razor/69d255e42df642b.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/cd50944b0ba64b3.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/battery/621eb559f3af46d.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/06679f00ae654f9.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/usb_cable/a30bbc5b287d464.png,Usb cable,290
+yourdatapath/objectNet/objectnet-1.0/images/biscuits/20f42a27dd1c49e.png,Biscuits,20
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/180856ddce604b3.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/board_game/8820373d259d4ca.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/59e77ce2aa9c4ec.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/cork/9b037547b7b846b.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/lettuce/857bf868a3b448e.png,Lettuce,140
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/b0032e42df0f4d2.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/lettuce/71ab2df1f8e8492.png,Lettuce,140
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/a82ad88265e747d.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/sponge/1ce36c66b434489.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/tongs/ba7aecfbf962472.png,Tongs,277
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/1e867418bf16453.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/tomato/b723ca018ec247a.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/pepper_shaker/2bf4c48406334b2.png,Pepper shaker,184
+yourdatapath/objectNet/objectnet-1.0/images/handbag/32bd7f85146948b.png,Handbag,117
+yourdatapath/objectNet/objectnet-1.0/images/leaf/cd5ce841234d426.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/battery/b2f526a209e841e.png,Battery,10
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/8a23209c9a98429.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/key_chain/50ce606141b4438.png,Key chain,130
+yourdatapath/objectNet/objectnet-1.0/images/table_knife/ea2550333d904c7.png,Table knife,259
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/1b83262f02114a1.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/cd845fe0b5c14ab.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/rolling_pin/e191eb94ebd9473.png,Rolling pin,215
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/5ced27b25f974da.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/box/8a9726657a52470.png,Box,31
+yourdatapath/objectNet/objectnet-1.0/images/milk/38329aa0813c423.png,Milk,152
+yourdatapath/objectNet/objectnet-1.0/images/shorts/5385f84ad9b5496.png,Shorts,228
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/9858afd4b2454d5.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_case/432707a5a9ef474.png,Cellphone case,48
+yourdatapath/objectNet/objectnet-1.0/images/magazine/5d37f85466724fd.png,Magazine,145
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/05fd5eea12bc466.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/d0de7f43a369471.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/90f3fdfacc8a4e7.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/bathrobe/01eade8962f848d.png,Bathrobe,9
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/4c26a0ef48cb42d.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/squeegee/7a138fda9c844e1.png,Squeegee,243
+yourdatapath/objectNet/objectnet-1.0/images/cooking_oil_bottle/7d004e08a0b64a4.png,Cooking oil bottle,69
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/8d67ce7d6fa2469.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/fd9f5ab74982404.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/nail_polish/3ad1a72d1d26416.png,Nail polish,162
+yourdatapath/objectNet/objectnet-1.0/images/thermometer/edcf60e2f2a5429.png,Thermometer,269
+yourdatapath/objectNet/objectnet-1.0/images/tablet_ipad/4a942590cb634e1.png,Tablet / iPad,261
+yourdatapath/objectNet/objectnet-1.0/images/eraser_white_board/9f55092b6db7402.png,Eraser (white board),97
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/0be6d715fa044dd.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/phone_landline/669ac0057d3e44d.png,Phone (landline),186
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/d1626992ba9547a.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/egg/734ed5f081c54af.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/butter/a33548c2f820435.png,Butter,40
+yourdatapath/objectNet/objectnet-1.0/images/comb/417ccb08dc6d48a.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/797aef17d1b4426.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/document_folder_closed/6e312d6261fd4fa.png,Document folder (closed),76
+yourdatapath/objectNet/objectnet-1.0/images/egg/b2baf78c6349478.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/0d7de12bdca44a4.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/box/8854135eb9a1420.png,Box,31
+yourdatapath/objectNet/objectnet-1.0/images/dust_pan/ff6b435522d8498.png,Dust pan,90
+yourdatapath/objectNet/objectnet-1.0/images/spray_bottle/a7e7bfcee2e5495.png,Spray bottle,242
+yourdatapath/objectNet/objectnet-1.0/images/pliers/fe917b6220f2480.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/cereal/5995c66454bf428.png,Cereal,50
+yourdatapath/objectNet/objectnet-1.0/images/newspaper/ff27375ee690490.png,Newspaper,165
+yourdatapath/objectNet/objectnet-1.0/images/tomato/22608a1afb484d2.png,Tomato,276
+yourdatapath/objectNet/objectnet-1.0/images/scissors/cfcf0ea34bea442.png,Scissors,222
+yourdatapath/objectNet/objectnet-1.0/images/drawer_open/97f84aeceb584c3.png,Drawer (open),79
+yourdatapath/objectNet/objectnet-1.0/images/sponge/af8bc5c5558c433.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/comb/ec9e06ed0691415.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/nut_for_screw/aee09c98e01b4ff.png,Nut for a screw,170
+yourdatapath/objectNet/objectnet-1.0/images/rock/998ba88f053240f.png,Rock,214
+yourdatapath/objectNet/objectnet-1.0/images/baseball_glove/5a013a91e3394bf.png,Baseball glove,7
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/db98f549e2244b1.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/teabag/030c757a9f48461.png,Teabag,266
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/e14ea10a74fa4cc.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/wrench/92346434af02496.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/button/3c0f965a1dfb4ce.png,Button,41
+yourdatapath/objectNet/objectnet-1.0/images/floss_container/7c353a07877d415.png,Floss container,104
+yourdatapath/objectNet/objectnet-1.0/images/headphones_over_ear/afd321a05d744e9.png,Headphones (over ear),119
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/1a955be93283413.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/cd_case/c0654e09c9d245b.png,CD case,46
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/88dc63de1691451.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/ring/5e999825b8c1463.png,Ring,213
+yourdatapath/objectNet/objectnet-1.0/images/dish_soap/03053e0ad1294b4.png,Dish soap,75
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/73912488f1f44ff.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/b16e510442e941d.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/sponge/092b3385081b4b2.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/canned_food/865cc620ce0343b.png,Canned food,45
+yourdatapath/objectNet/objectnet-1.0/images/belt/cc282c9317374cb.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/bills_money/5e7967c9575b4e4.png,Bills (money),18
+yourdatapath/objectNet/objectnet-1.0/images/wine_glass/dcbe907529aa463.png,Wine glass,308
+yourdatapath/objectNet/objectnet-1.0/images/paint_can/354d4a2e231646c.png,Paint can,174
+yourdatapath/objectNet/objectnet-1.0/images/stopper_sink_tub/301367ad4c7f4ff.png,Stopper (sink/tub),249
+yourdatapath/objectNet/objectnet-1.0/images/detergent/d1c2c06fd0b849d.png,Detergent,74
+yourdatapath/objectNet/objectnet-1.0/images/nut_for_screw/5bbaa4fc9d22472.png,Nut for a screw,170
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/0e7c97916aa0480.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/59e82a5359814e0.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/laptop_charger/cfd3d89e5a164b2.png,Laptop charger,134
+yourdatapath/objectNet/objectnet-1.0/images/paper_plates/463ebe240bf74c1.png,Paper plates,178
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/b828c0df57b94f9.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/clothes_hanger/aad0d76af85f493.png,Clothes hanger,57
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/8a27f3adf76342c.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/97fb70a1081e40e.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/coffee_table/4c1f0ff00b6642d.png,Coffee table,63
+yourdatapath/objectNet/objectnet-1.0/images/belt/be36b606bf784db.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/7e84cd0829f4438.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/blanket/e64c9bf8ad5d456.png,Blanket,21
+yourdatapath/objectNet/objectnet-1.0/images/bike_pump/db923d1f0264484.png,Bike pump,17
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/11689afab7bf431.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/belt/8d31ad0a6e3845c.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/hat/154fde8ce05b497.png,Hat,118
+yourdatapath/objectNet/objectnet-1.0/images/nail_clippers/1892d1a2303d4ea.png,Nail clippers,159
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/2fa15ff4d80c43e.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/razor/e4c60fc494df4db.png,Razor,208
+yourdatapath/objectNet/objectnet-1.0/images/coffee_machine/8e0ced5bcd6e41d.png,Coffee machine,62
+yourdatapath/objectNet/objectnet-1.0/images/earbuds/de07bdee5859451.png,Earbuds,92
+yourdatapath/objectNet/objectnet-1.0/images/skateboard/2866cb975eaf4d4.png,Skateboard,230
+yourdatapath/objectNet/objectnet-1.0/images/toothpaste/dda245d05249441.png,Toothpaste,279
+yourdatapath/objectNet/objectnet-1.0/images/dress_pants/baa25d44ec7647d.png,Dress pants,81
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/f0a7279dd78c47b.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/pliers/c27427a1273e4a2.png,Pliers,198
+yourdatapath/objectNet/objectnet-1.0/images/comb/3fd3f917aeb2454.png,Comb,65
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/faeacd9383d544d.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/jam/bc614b2448ee4dd.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/cellphone_charger/9c2e47fd5083457.png,Cellphone charger,49
+yourdatapath/objectNet/objectnet-1.0/images/dog_bed/16f524f1bb00462.png,Dog bed,77
+yourdatapath/objectNet/objectnet-1.0/images/wrench/a9788cfa463b468.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/a8a2a6103bfb419.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/blender/55fb9ba56ee84f7.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/wrench/046fb2f04d0f44f.png,Wrench,311
+yourdatapath/objectNet/objectnet-1.0/images/coffee_beans/df2e05a5815649f.png,Coffee beans,59
+yourdatapath/objectNet/objectnet-1.0/images/egg/276fea62f164488.png,Egg,94
+yourdatapath/objectNet/objectnet-1.0/images/loofah/3bc4723deb11407.png,Loofah,144
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/0f50da2780664bd.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/belt/47032688cf3d4eb.png,Belt,14
+yourdatapath/objectNet/objectnet-1.0/images/sewing_kit/f33f0aa2a03d450.png,Sewing kit,225
+yourdatapath/objectNet/objectnet-1.0/images/contact_lens_case/cabb5abaad7048a.png,Contact lens case,68
+yourdatapath/objectNet/objectnet-1.0/images/chopstick/38c87366ec29422.png,Chopstick,55
+yourdatapath/objectNet/objectnet-1.0/images/deodorant/3e55a5310c014c4.png,Deodorant,72
+yourdatapath/objectNet/objectnet-1.0/images/sugar_container/299aca72e5744ea.png,Sugar container,252
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/f773c9eac9d94fb.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/spoon/ae8f6c4ebe0842c.png,Spoon,241
+yourdatapath/objectNet/objectnet-1.0/images/hair_brush/b59ef27f65ab47e.png,Hair brush,110
+yourdatapath/objectNet/objectnet-1.0/images/pet_food_container/2f3d1f2da1c3492.png,Pet food container,185
+yourdatapath/objectNet/objectnet-1.0/images/mouthwash/e7888fe2e8374a4.png,Mouthwash,156
+yourdatapath/objectNet/objectnet-1.0/images/cork/66aa8611bca4485.png,Cork,70
+yourdatapath/objectNet/objectnet-1.0/images/scrub_brush/22bcb9af9f67487.png,Scrub brush,224
+yourdatapath/objectNet/objectnet-1.0/images/pencil/fbec1110b638462.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/tape_measure/8412e0e380ce45a.png,Tape measure,264
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/99f88510565149e.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/mouse_pad/10f047532106470.png,Mouse pad,155
+yourdatapath/objectNet/objectnet-1.0/images/handbag/30887a05132c477.png,Handbag,117
+yourdatapath/objectNet/objectnet-1.0/images/egg_carton/1cb986a1275b40d.png,Egg carton,95
+yourdatapath/objectNet/objectnet-1.0/images/bottle_opener/0fe3e6a052274a7.png,Bottle opener,29
+yourdatapath/objectNet/objectnet-1.0/images/napkin/d08830a02e0a4ec.png,Napkin,163
+yourdatapath/objectNet/objectnet-1.0/images/playing_cards/a7d62404a6484c9.png,Playing cards,197
+yourdatapath/objectNet/objectnet-1.0/images/hand_mirror/02a57a80d5a4412.png,Hand mirror,115
+yourdatapath/objectNet/objectnet-1.0/images/cheese/ae48ea7bddf64e1.png,Cheese,52
+yourdatapath/objectNet/objectnet-1.0/images/board_game/e6699f9500e34de.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/rake/98153ef8d1034fa.png,Rake,207
+yourdatapath/objectNet/objectnet-1.0/images/beer_can/efcb99c7cd734e3.png,Beer can,13
+yourdatapath/objectNet/objectnet-1.0/images/baking_sheet/449f977045d140e.png,Baking sheet,3
+yourdatapath/objectNet/objectnet-1.0/images/ziploc_bag/c367fbe6aa084b2.png,Ziploc bag,312
+yourdatapath/objectNet/objectnet-1.0/images/pencil/1e9f7363393e499.png,Pencil,183
+yourdatapath/objectNet/objectnet-1.0/images/book_closed/a115bb23a04e4aa.png,Book (closed),25
+yourdatapath/objectNet/objectnet-1.0/images/glue_container/bc6ee40712f443b.png,Glue container,109
+yourdatapath/objectNet/objectnet-1.0/images/chess_piece/5e62ac5f08154a5.png,Chess piece,53
+yourdatapath/objectNet/objectnet-1.0/images/cutting_board/041cbab91ad4426.png,Cutting board,71
+yourdatapath/objectNet/objectnet-1.0/images/suitcase/09d7cec8461d479.png,Suitcase,254
+yourdatapath/objectNet/objectnet-1.0/images/leaf/27744d9cb7564d6.png,Leaf,136
+yourdatapath/objectNet/objectnet-1.0/images/fork/629972aba95e419.png,Fork,106
+yourdatapath/objectNet/objectnet-1.0/images/sponge/6bf96f759f82443.png,Sponge,240
+yourdatapath/objectNet/objectnet-1.0/images/drinking_straw/038295efe236465.png,Drinking straw,87
+yourdatapath/objectNet/objectnet-1.0/images/placemat/832f5473a58048a.png,Placemat,192
+yourdatapath/objectNet/objectnet-1.0/images/jam/5e5d0e376bdd485.png,Jam,126
+yourdatapath/objectNet/objectnet-1.0/images/leggings/bb150cd977a74fd.png,Leggings,137
+yourdatapath/objectNet/objectnet-1.0/images/blender/7f85ab95a9de49a.png,Blender,22
+yourdatapath/objectNet/objectnet-1.0/images/dress_shirt/fba402dacdba45d.png,Dress shirt,82
+yourdatapath/objectNet/objectnet-1.0/images/dress_shoe_women/7079cea8ed4242e.png,Dress shoe (women),84
+yourdatapath/objectNet/objectnet-1.0/images/board_game/a59f0f397a0d432.png,Board game,24
+yourdatapath/objectNet/objectnet-1.0/images/hairtie/cdbe416f2a6540d.png,Hairtie,113
+yourdatapath/objectNet/objectnet-1.0/images/toothbrush/959296c3b5c24e0.png,Toothbrush,278
+yourdatapath/objectNet/objectnet-1.0/images/eyeglasses/e6d8c805e569471.png,Eyeglasses,99
+yourdatapath/objectNet/objectnet-1.0/images/step_stool/1a252157d628424.png,Step stool,247
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/f66e0b25aaa7406.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/tweezers/d3f68a03c6324e0.png,Tweezers,288
+yourdatapath/objectNet/objectnet-1.0/images/peeler/079fba8d5ffd4fe.png,Peeler,181
