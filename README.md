@@ -9,8 +9,80 @@ This repository provides an implementation of the paper *"Low-Cost Hard-Label Ad
 1. Install required Python packages based on the import statements in each file: pip install -r requirement.txt
 3. Download the necessary datasets and model weights as described in the relevant sections below
 
-## Reproducing Experimental Results
+## Reproducing Main Experimental Results
 
+### 1. Attack Results on Standard and Robust Models
+
+Attack ImageNet, ImageNet-C, and ObjectNet with standard models, robust models, and CLIP:
+
+- **Ours (Optimal Block Size)**: `Ours.py` (set blocksize to optimal value for `Ours_opt` results)
+- **Ours with Dynamic Block Size Selection**: `OursDBS.py` (generates `Ours_dyn` results)
+- **Ours with Dynamic Block Size Selection for CIFAR-10**: `OursCifar10DBS.py` (tools/utils.py getCifar10Testdata() to make cifar10 test data)
+
+For other baseline methods, run the corresponding files in the `baselines/` directory:
+```bash
+git clone https://github.com/machanic/TangentAttack.git baselines/
+```
+
+#### ObjectNet
+
+Download the dataset from https://objectnet.dev/download.html and place it in `data/objectnet/`. If the full dataset is too large, download only the file list from `data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt`.
+
+```bash
+python OursImageNetDBS.py --datasource objectnet --victimmodel clip
+```
+
+#### PathMNIST
+
+The provided checkpoint is trained following the repository: https://github.com/MedMNIST/MedMNIST
+
+### 2. API Attacks
+
+
+Run the attack scripts in the `attackAPIs/` directory:
+
+- Request API keys and secret keys from your API platform
+- Set these variables in the code with your own credentials
+- **Note**: When multiple threads call `getTempFilename()` simultaneously, temporary files may be overwritten. Use thread-specific names for temporary files to solve this issue.
+
+
+### 3. Blacklight Defense
+
+To attack models defended by Blacklight, set the `--defense` flag to 1 in the following files:
+
+```bash
+python OursBlacklight.py --defense 1
+python baselines/ADBA.py --defense 1
+python baselines/attack_imagenet_others.py --defense 1
+```
+
+### 4. Dense Prediction Tasks
+
+#### Attack SAM on SA-1B Dataset
+
+Navigate to the attack SAM directory:
+```bash
+cd attackSAM
+python main.py
+```
+
+To test both our method and ADBA, clone the DarkSAM repository:
+```bash
+git clone https://github.com/CGCL-codes/DarkSAM.git
+```
+Follow their instructions to download the SA-1B dataset and SAM model.
+
+#### Attack Object Detection on COCO
+
+
+Download COCO validation set:
+```bash
+# Download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
+```
+
+The main entry point is `objectDetectionAttack.py`, which tests both our method and ADBA.
+
+## Analysis Results and Ablation Studies
 ### 1. Fig. 3 - BFS Analysis
 
 Generate and save perturbed images:
@@ -121,89 +193,6 @@ cossimEvo()
 # In tools/OursAnalysis.py, run:
 callTheorem5()
 ```
-
-### 8. Attack Results on Standard and Robust Models
-
-Attack ImageNet, ImageNet-C, and ObjectNet with standard models, robust models, and CLIP:
-
-- **Ours (Optimal Block Size)**: `Ours.py` (set blocksize to optimal value for `Ours_opt` results)
-- **Ours with Dynamic Block Size Selection**: `OursDBS.py` (generates `Ours_dyn` results)
-- **Ours with Dynamic Block Size Selection for CIFAR-10**: `OursCifar10DBS.py` (tools/utils.py getCifar10Testdata() to make cifar10 test data)
-
-For other baseline methods, run the corresponding files in the `baselines/` directory:
-```bash
-git clone https://github.com/machanic/TangentAttack.git baselines/
-```
-
-#### ObjectNet
-
-Download the dataset from https://objectnet.dev/download.html and place it in `data/objectnet/`. If the full dataset is too large, download only the file list from `data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt`.
-
-```bash
-python OursImageNetDBS.py --datasource objectnet --victimmodel clip
-```
-
-#### PathMNIST
-
-Install required package:
-```bash
-pip install medmnist
-```
-
-The provided checkpoint is trained following the repository: https://github.com/MedMNIST/MedMNIST
-
-### 9. API Attacks
-
-
-Install TencentCloud SDK:
-```bash
-pip install tencentcloud-sdk-python-intl-en
-```
-(See: https://github.com/TencentCloud/tencentcloud-sdk-python-intl-en)
-
-Run the attack scripts in the `attackAPIs/` directory:
-
-- Request API keys and secret keys from your API platform
-- Set these variables in the code with your own credentials
-- **Note**: When multiple threads call `getTempFilename()` simultaneously, temporary files may be overwritten. Use thread-specific names for temporary files to solve this issue.
-
-
-### 10. Blacklight Defense
-
-To attack models defended by Blacklight, set the `--defense` flag to 1 in the following files:
-
-```bash
-python OursBlacklight.py --defense 1
-python baselines/ADBA.py --defense 1
-python baselines/attack_imagenet_others.py --defense 1
-```
-
-### 11. Dense Prediction Tasks
-
-#### Attack SAM on SA-1B Dataset
-
-Navigate to the attack SAM directory:
-```bash
-cd attackSAM
-python main.py
-```
-
-To test both our method and ADBA, clone the DarkSAM repository:
-```bash
-git clone https://github.com/CGCL-codes/DarkSAM.git
-```
-Follow their instructions to download the SA-1B dataset and SAM model.
-
-#### Attack Object Detection on COCO
-
-
-Download COCO validation set:
-```bash
-# Download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
-```
-
-The main entry point is `objectDetectionAttack.py`, which tests both our method and ADBA.
-
 
 ### 12. Ablation Studies
 
