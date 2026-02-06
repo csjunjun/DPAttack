@@ -16,7 +16,7 @@ from  tools.jpegdct import DiffJPEG
 from tools.utils import setSeed,progress_bar
 from tools.fetchmodel import fetchImageNetModels
 from tools.DataTools import ADBEvaluate
-from models.OursClass import Block, V,getZigzagMeanStd,getnewd
+from models.OursClass import Block, V,getZigzagMeanStd,getNewd,getNewdRays
 import statistics
 import matplotlib.pyplot as plt 
 import pandas as pd
@@ -282,44 +282,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
             ycbcr = torch.cat([yc.unsqueeze(1),cb.unsqueeze(1),cr.unsqueeze(1)],dim=1)
         
         if args.onlyone!=1:
-            if args.lowtype == "dct":
-
-                n_block = ycbcr.shape[2]
-                if blocksize == 4:
-                    lowendf = args.dctTrunc #[0,4*4]
-                elif blocksize ==8:
-                    lowendf = args.dctTrunc #[0,8*8]
-                print(f"lowendf:{lowendf}")
-
-                ldct = torch.zeros_like(ycbcr)
-                mdct = torch.zeros_like(ycbcr)
-                hdct = torch.zeros_like(ycbcr)
-
-                for lowi in range(0,lowendf):
-                    idxi,idxj = getzigzagcor(lowi,rows=blocksize,columns=blocksize)
-                    ldct[:,:,:,idxi,idxj] = ycbcr[:,:,:,idxi,idxj] 
-
-
-                lowpassimg = diffj.rec(ldct[:,0],ldct[:,1],ldct[:,2],original_image_x.shape[2],original_image_x.shape[3])
-                lowpassimg = torch.clamp(lowpassimg,0,1).cuda()
-                perturb_pixel =  lowpassimg-original_image_x.repeat(npop,1,1,1).cuda()
-                dis = torch.norm(perturb_pixel,p=np.inf)
-                newd_low = perturb_pixel/torch.norm(perturb_pixel)
-                zeronum = len(torch.where(torch.sign(perturb_pixel)==0)[0])
-                print(f"newd_low, zeronum:{zeronum}")
-                if zeronum>0:
-                    newd_low[torch.where(newd_low==0)]=1
-                    sign_new_low = torch.sign(newd_low)
-                    sign_new_low[torch.where(sign_new_low==0)] = 1
-                    tmp = np.array(sign_new_low.detach().flatten(start_dim=1).cpu().numpy(),dtype=np.int32)
-                else:
-                    tmp = np.array(torch.sign(newd_low).detach().flatten(start_dim=1).cpu().numpy(),dtype=np.int32)
-                v0_low_list = []
-                for adv_v_init_low in tmp:
-                    v0_low = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init_low )
-                    v0_low_list.append(v0_low)
-
-            elif args.lowtype == "rcolor":
+            if  args.lowtype == "rcolor":
                 if dwtlevel>0:
                     hshape,wshape = cas.shape[2],cas.shape[3]
                 else:
@@ -569,7 +532,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
             newd_image = v0.advv_to_tensor()
         newd_image_binary = newd_image
         if args.binaryAnalyze==2:
-            np.save(f"/home/code/attacks/ADBA/code/startpoints_wrs50/{filename}.npy",v0.adv_v)
+            np.save(f"../data/startpoints_wrs50/{filename}.npy",v0.adv_v)
     else:
         v0 = v0_low_list[0]
         newd_image_binary = newd_image_low
@@ -654,7 +617,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
 
             nonzeroidx = gtgrad[0].cpu().numpy().flatten()!=0
             tmp = torch.clamp(original_image_x.cuda()+initrhigh*newd_image_binary,0,1)
-            cossimlist_init = float(torch.cosine_similarity(torch.sign(tmp.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+            cossimlist_init = float(torch.cosine_similarity(torch.sign(tmp.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
 
     else:
         if args.binaryAnalyze==4:
@@ -739,9 +702,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                     else:
                        
                         mid_low = initrhigh_low-(initrhigh_low-initrlow_low)/5
-                    if args.lowtype=="dct":
-                        candi_low = torch.clamp(lowpassimg+mid_low*newd_image_color,0,1)
-                    elif args.lowtype=="rcolor" or args.lowtype=="bar"  or args.lowtype=="dwtstd":
+                    if  args.lowtype=="rcolor" or args.lowtype=="bar"  or args.lowtype=="dwtstd":
                         candi_low = torch.clamp(original_image_x+mid_low*newd_image_low.cpu(),0,1)
 
                     pre_low = torch.argmax(model(candi_low.cuda())).cpu()
@@ -770,9 +731,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                     print("loop threshold.")
                     break
             tmp = torch.clamp(original_image_x+initrhigh*newd_image.cpu(),0,1)
-            if args.lowtype=="dct":
-                tmp_low = torch.clamp(lowpassimg+initrhigh_low*newd_image_color,0,1)
-            elif args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
+            if  args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
                 tmp_low = torch.clamp(original_image_x+initrhigh_low*newd_image_low,0,1)
             dis = torch.norm(tmp-original_image_x,p=np.inf)
             dis_low = torch.norm(tmp_low-original_image_x,p=np.inf)
@@ -793,7 +752,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                 candi = tmp
                 args.paratype=22
             if gtgrad is not None:
-                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
             else:
                 cossimlist_init = None
             if args.binaryAnalyze==10:
@@ -1087,7 +1046,7 @@ def main_ADBA():
     parser.add_argument('--init', default="", type=str,
                         help='"":use variance calculated by other dataset;test:use the ground truth variance for test;ce: use the celoss sensitivity')  
     args = parser.parse_args()
-    savep = f"/data/advimgs/{args.victimmodel}_onlyone{args.onlyone}_dl{args.dwtlevel}_bs{args.blocksize}_max{args.budget}_eps{args.epsilon}"
+    savep = f"../data/advimgs/{args.victimmodel}_onlyone{args.onlyone}_dl{args.dwtlevel}_bs{args.blocksize}_max{args.budget}_eps{args.epsilon}"
 
     if not os.path.exists(savep) and args.saveimg==1:
         os.mkdir(savep)
@@ -1130,7 +1089,7 @@ def main_ADBA():
 
         imgbase = '../data/imagenet'
     from PIL import Image
-    celossbasepath = f"..data//resnet50_freqperturbresult"
+    celossbasepath = f"..data/resnet50_freqperturbresult"
     print(f"celossbasepath:{celossbasepath}")
 
     if args.init == "" or args.init=="ce":

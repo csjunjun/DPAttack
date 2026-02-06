@@ -38,9 +38,7 @@ def fetchImageNetModels(modelname):
 
         _original_torch_load = torch.load
 
-        # 2. 定义一个临时函数，强制将 weights_only 设为 False
         def _unsafe_torch_load(*args, **kwargs):
-            # 如果是 PyTorch 2.4+，手动指定 weights_only=False
             if 'weights_only' not in kwargs:
                 kwargs['weights_only'] = False
             return _original_torch_load(*args, **kwargs)
