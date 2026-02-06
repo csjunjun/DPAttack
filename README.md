@@ -19,9 +19,25 @@ Attack ImageNet, ImageNet-C, and ObjectNet with standard models, robust models, 
 - **Ours with Dynamic Block Size Selection**: `OursDBS.py` (generates `Ours_dyn` results)
 - **Ours with Dynamic Block Size Selection for CIFAR-10**: `OursCifar10DBS.py` (tools/utils.py getCifar10Testdata() to make cifar10 test data)
 
-For other baseline methods, run the corresponding files in the `baselines/` directory:
+For other baseline methods, run the corresponding files in the `baselines/` directory. Especially, for TangentAttack, you have to:
 ```bash
-git clone https://github.com/machanic/TangentAttack.git baselines/
+cd baselines
+git clone https://github.com/machanic/TangentAttack.git 
+```
+#### ImageNet 
+
+Download the ImageNet validation dataset and place it in `data/imagenet/val`.
+
+```bash
+python OursDBS.py --datasource imagenet --victimmodel vit
+```
+
+#### ImageNet-C
+
+Download the ImageNet-C dataset and place it in `data/imagenetc`.
+
+```bash
+python OursDBS.py --datasource imagenetc --victimmodel HMany
 ```
 
 #### ObjectNet
@@ -29,20 +45,25 @@ git clone https://github.com/machanic/TangentAttack.git baselines/
 Download the dataset from https://objectnet.dev/download.html and place it in `data/objectnet/`. If the full dataset is too large, download only the file list from `data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt`.
 
 ```bash
-python OursImageNetDBS.py --datasource objectnet --victimmodel clip
+python OursDBS.py --datasource objectnet --victimmodel clip
 ```
 
 #### PathMNIST
 
 The provided checkpoint is trained following the repository: https://github.com/MedMNIST/MedMNIST
 
+```bash
+python OursDBS.py --datasource pmnist --victimmodel Net28
+```
+
+
 ### 2. API Attacks
 
 
-Run the attack scripts in the `attackAPIs/` directory:
+Run the attack scripts in the `attackAPIs/` directory. Before this, you have to:
 
 - Request API keys and secret keys from your API platform
-- Set these variables in the code with your own credentials
+- Set these variables in the `attackAPIs/apis.py` with your own credentials
 - **Note**: When multiple threads call `getTempFilename()` simultaneously, temporary files may be overwritten. Use thread-specific names for temporary files to solve this issue.
 
 
@@ -60,17 +81,21 @@ python baselines/attack_imagenet_others.py --defense 1
 
 #### Attack SAM on SA-1B Dataset
 
-Navigate to the attack SAM directory:
-```bash
-cd attackSAM
-python main.py
-```
 
-To test both our method and ADBA, clone the DarkSAM repository:
+Clone the DarkSAM repository:
 ```bash
 git clone https://github.com/CGCL-codes/DarkSAM.git
 ```
 Follow their instructions to download the SA-1B dataset and SAM model.
+
+To test ADBA, our DPAttack with optimal block size, or our DPAttack with dynamic block size selection, navigate to the attack SAM directory and run:
+```bash
+cd attackSAM
+python main.py --test_method  ADBA
+python main.py --test_method  Ours
+python main.py --test_method  OursDy
+```
+
 
 #### Attack Object Detection on COCO
 
@@ -80,7 +105,7 @@ Download COCO validation set:
 # Download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
 ```
 
-The main entry point is `objectDetectionAttack.py`, which tests both our method and ADBA.
+The main entry point is `objectDetectionAttack.py`, which tests ADBA, our DPAttack with optimal block size, or our DPAttack with dynamic block size selection by setting the parameter `attack_method`.
 
 ## Analysis Results and Ablation Studies
 ### 1. Fig. 3 - BFS Analysis
