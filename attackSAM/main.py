@@ -114,8 +114,6 @@ def run(args,path_id, custom_dataset):
             else:
                 iou_cnt += 1
                 print(f"img {iou_cnt} attack fail, query: {query}, linfdis: {linfdis}, l2dis: {l2dis},iou_adv_img:{iou_adv_img}")
-            if iou_cnt==200:
-                print("reach test num 200" )
             #del logits_clean, benign_img, X, mask_clean, logits_hat, mask_hat, adv_img
             if iou_cnt == args.test_num:
                 print("reach test num")
@@ -261,27 +259,4 @@ if __name__ == '__main__':
     test_num, miouimg, miouadv= run(args, path_id, custom_dataset)
     print(f":: miouimg: {miouimg * 100:.2f} %, miouadv: {miouadv * 100:.2f} %")
 
-    if args.save:
-        final_log_save_path = os.path.join('result', 'test')
-        if not os.path.exists(final_log_save_path):
-            os.makedirs(final_log_save_path)
-        final_result = []
-        final_result_ = {"ckpt": args.M,
-                         "seed": args.seed,
-                         "now_time": now_time,
-                         "final_log_save_path": final_log_save_path,
-                         "train_dataset": args.train_dataset,
-                         "test_dataset": args.test_dataset,
-                         "train_prompt": args.train_prompts,
-                         "test_prompt": args.test_prompts,
-                         "eps": args.eps,
-                         "train_num": args.train_num,
-                         "test_num": test_num,
-                         "miouimg": f"{miouimg * 100:.2f} %",
-                         "miouadv": f"{miouadv * 100:.2f} %"}
-        final_result.append(final_result_)
-        header = ["ckpt", "seed", "now_time", "final_log_save_path", "train_dataset","test_dataset", "train_prompt", "test_prompt", "eps", "train_num", "test_num", "miouimg", "miouadv"]
-        with open(final_log_save_path + f'/final_results.csv', 'a', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=header)
-            writer.writeheader()
-            writer.writerows(final_result)
+    

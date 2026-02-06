@@ -8,10 +8,10 @@ import copy,pywt
 import sys
 from ..tools.jpegdct import DiffJPEG
 from ..objectDetectionAttack import evaluate_image
-
+from tools.utils import progress_bar
 from ..tools.DataTools import ADBEvaluate
 
-from OursClass import Block,V,getzigzagcor,getZigzagMeanStd
+from OursClass import Block,V,getzigzagcor,getZigzagMeanStd,getNewdRays
 
 ##################################################################################################
 #represent blocks of a picture
@@ -219,9 +219,7 @@ def getNewd(ycbcr,n_block,stds,padded,image,npop,nchannel,step_p,diffj,ord,initm
     mu = torch.zeros(1,3,n_block,blocksize,blocksize)
     mu[:,:,:,0,0] += initmu
     modifys = torch.zeros(npop,nchannel,n_block,blocksize,blocksize)
-    mu_zs = torch.zeros(npop,nchannel,n_block,blocksize,blocksize)
-    cosa =torch.tensor([10000.]).cuda()
-    samplei = 0
+
     repeat_num = int(n_block//n_block)
     color=0
     
@@ -275,7 +273,6 @@ def getNewd(ycbcr,n_block,stds,padded,image,npop,nchannel,step_p,diffj,ord,initm
     adv_images = torch.clamp(adv_images,0,1)  
     adv_images = adv_images[:,:,:image.shape[2],:image.shape[3]]
     perturb_pixel =  adv_images-image 
-    #l2dis = torch.norm(perturb_pixel)#213.6176         Image.fromarray(np.uint8(np.round(((adv_images[0].permute(1,2,0).cpu().numpy())*255)))).save("ILSVRC2012_val_00000044_newdrecon.png","png")
     dis = torch.norm(perturb_pixel,p=ord)
     newd = perturb_pixel/torch.norm(perturb_pixel)
 
@@ -286,40 +283,13 @@ def getNewd(ycbcr,n_block,stds,padded,image,npop,nchannel,step_p,diffj,ord,initm
     adv_images_color = adv_images_color[:,:,:image.shape[2],:image.shape[3]]
     adv_images_color = torch.clamp(adv_images_color,0,1)  
     perturb_pixel_color =  adv_images_color-image 
-    #l2dis = torch.norm(perturb_pixel)#213.6176
     dis_color = torch.norm(perturb_pixel_color,p=ord)
     newd_color = perturb_pixel_color/torch.norm(perturb_pixel_color)
-    #save_image(torch.cat([adv_images,adv_images_color],dim=0),'initimg.png')
 
     
     return newd,adv_images,dis,newd_color
 
 
-def getNewdRays(blocksize=4,h=224,w=224):
-    p=0
-    sitem = []
-    gtgradsign=[1 for i in range(3*h*w)]
-    gtgradsign_avgpp=[]
-    flag=1
-    for gi in gtgradsign:
-        if (p+1)%blocksize==0:
-            if p==0:
-                sitem=[flag]
-            else:
-                sitem.append(flag)
-                gtgradsign_avgpp.append([j for j in sitem])
-
-        else:
-            if p%blocksize==0:
-                flag *=-1
-                sitem=[flag]
-            else:
-                sitem.append(flag)
-        p+=1
-    gtgradsign_avgppflatten = torch.tensor(np.array(gtgradsign_avgpp)).reshape(1,3,224,224)
-    #gtgradsign_avgppflatten=(gtgradsign_avgppflatten+1)/2
-    #Image.fromarray(np.uint8(np.round((gtgradsign_avgppflatten[0].permute(1,2,0).numpy()*255)))).save('test.png')
-    return gtgradsign_avgppflatten
 
 def predictImg(model,image,target,iouThreshold):
     with torch.no_grad():
@@ -753,9 +723,7 @@ def ATK_ADBA(model, padded,original_image_x, label_y,img_number, aim_r, toleranc
                     print("loop threshold.")
                     break
             tmp = torch.clamp(original_image_x+initrhigh*newd_image.cuda(),0,1)
-            if args.lowtype=="dct":
-                tmp_low = torch.clamp(lowpassimg+initrhigh_low*newd_image_color,0,1)
-            elif args.lowtype=="rcolor" or args.lowtype=="bar":
+            if  args.lowtype=="rcolor" or args.lowtype=="bar":
                 tmp_low = torch.clamp(original_image_x+initrhigh_low*newd_image_low.cuda(),0,1)
             dis = torch.norm(tmp-original_image_x,p=np.inf)
             dis_low = torch.norm(tmp_low-original_image_x,p=np.inf)
@@ -773,7 +741,7 @@ def ATK_ADBA(model, padded,original_image_x, label_y,img_number, aim_r, toleranc
                 candi = tmp
                 args.paratype=22
             if gtgrad is not None:
-                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
             else:
                 cossimlist_init = None
 
@@ -860,36 +828,31 @@ def ATK_ADBA(model, padded,original_image_x, label_y,img_number, aim_r, toleranc
                         break
                 if len(blocks_i)>0:
                     blocks.append(copy.deepcopy(blocks_i))
-              
-            innerloop=0
-            while  (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):
-                print(f"innerloop:{innerloop},query:{query},Rbest:{ITERATION.old_vbest.Rmax}")
-                newd_rev,newcandi,newdis,newd_color = getNewd(ycbcr,n_block,stds,padded,original_image_x.cuda(),npop=npop,nchannel=nchannel,\
+               
+            if  (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):
+
+                newd_rev,newcandi,newdis,newd_color = getNewd(ycbcr,n_block,stds,original_image_x.cuda(),npop=npop,nchannel=nchannel,\
                                             step_p=step_p,diffj=diffj,ord=np.inf,initmu=args.mu,initystd=args.initystd,\
                                                 initcbstd=args.initcbstd,initcrstd=args.initcrstd,blocksize=args.blocksize,\
-                                                    init="",initvariables="",freqratio=args.freqratio,color = args.color) 
+                                                    init=args.init,initvariables=[],freqratio=args.freqratio,color = args.color) 
                 
                 zeronum = len(torch.where(torch.sign(newd_rev)==0)[0])
                 print(f"newd, zeronum:{zeronum}")
                 if zeronum>0:
-
-                    if args.zerosign==0:
-                        initsign = np.random.choice([-1,1])
-                        newd_rev[torch.where(newd_rev==0)]=initsign
-                        sign_new_low = torch.sign(newd_rev)
-                        sign_new_low[torch.where(sign_new_low==0)] = initsign 
-                    elif args.zerosign==1 or args.zerosign==-1:
-
-                        newd_rev[torch.where(newd_rev==0)]=int(args.zerosign)
-                        sign_new_low = torch.sign(newd_rev)
-                        sign_new_low[torch.where(sign_new_low==0)] = int(args.zerosign)
-
-
+                    newd_rev[torch.where(newd_rev==0)]=1
+                    sign_new_low = torch.sign(newd_rev)
+                    sign_new_low[torch.where(sign_new_low==0)] = 1
                     adv_v_init_rev = list(np.array(sign_new_low[0].flatten().detach().cpu().numpy(),dtype=np.int32))
                 else:
                     adv_v_init_rev = list(np.array(torch.sign(newd_rev[0]).flatten().detach().cpu().numpy(),dtype=np.int32))
 
                 v0_rev = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init_rev )
+                v0_rev.Rmax =ITERATION.old_vbest.Rmax
+
+            innerloop=0
+            while  (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):
+                print(f"innerloop:{innerloop},query:{query},Rbest:{ITERATION.old_vbest.Rmax}")
+
                 block_iter = 0
 
                 if args.ablation==0:
@@ -902,7 +865,7 @@ def ATK_ADBA(model, padded,original_image_x, label_y,img_number, aim_r, toleranc
                     bs1 = b0.cut_block(args.offspringN)
                     blocks = [bs1]
 
-                blockdir2_stop = False
+
                 while (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):  
 
                     block_iter = block_iter + 1
@@ -923,7 +886,7 @@ def ATK_ADBA(model, padded,original_image_x, label_y,img_number, aim_r, toleranc
                                     if ijx>i:
                                         blocks[block_iter - 1][ijx].x1 +=1 
                                         blocks[block_iter - 1][ijx].x2 +=1 
-                           
+                          
                         blocks_i.extend(bi.cut_block(args.offspringN))
                         if updated:
                             assert len(ITERATION.old_vbest.continue_subarr)-1 == blocks[block_iter - 1][ijx].x2
@@ -942,7 +905,9 @@ def ATK_ADBA(model, padded,original_image_x, label_y,img_number, aim_r, toleranc
                             break
                     if len(blocks_i)>0:
                         blocks.append(copy.deepcopy(blocks_i))
-                innerloop += 1
+                   
+                innerloop += 1              
+            
             Rbest = ITERATION.old_vbest.Rmax
             adversarial_v = ITERATION.old_vbest.advv_to_tensor()
             adversarial_image = original_image_x + Rbest * adversarial_v.cuda()

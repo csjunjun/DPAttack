@@ -12,7 +12,7 @@ from  ..tools.jpegdct import DiffJPEG
 from ..tools.utils import progress_bar
 
 from OursClass import Block,V,getZigzagMeanStd,getNewd,getzigzagcor,getNewdRays
-from OursDynaStartSAM import Iter,predictImg
+from models.OursDBSSAM import Iter,predictImg
 
 
 @torch.no_grad()
@@ -68,44 +68,7 @@ def ATK_ADBA(model, original_image_x, label_y,img_number, aim_r, tolerance_binar
             ycbcr = torch.cat([yc.unsqueeze(1),cb.unsqueeze(1),cr.unsqueeze(1)],dim=1)
         
         if args.onlyone != 1:
-            if args.lowtype == "dct":
-                n_block = ycbcr.shape[2]
-                lowendf = args.dctTrunc
-                ldct = torch.zeros_like(ycbcr)
-                mdct = torch.zeros_like(ycbcr)
-                hdct = torch.zeros_like(ycbcr)
-
-                for lowi in range(0,lowendf):
-                    idxi,idxj = getzigzagcor(lowi,rows=blocksize,columns=blocksize)
-                    ldct[:,:,:,idxi,idxj] = ycbcr[:,:,:,idxi,idxj] 
-
-                lowpassimg = diffj.rec(ldct[:,0],ldct[:,1],ldct[:,2],original_image_x.shape[2],original_image_x.shape[3])
-                lowpassimg = torch.clamp(lowpassimg,0,1).cuda()
-                perturb_pixel =  lowpassimg-original_image_x.repeat(npop,1,1,1).cuda()
-                dis = torch.norm(perturb_pixel,p=np.inf)
-                newd_low = perturb_pixel/torch.norm(perturb_pixel)
-                zeronum = len(torch.where(torch.sign(perturb_pixel)==0)[0])
-                print(f"newd_low, zeronum:{zeronum}")
-                if zeronum>0:
-                    if args.zerosign==0:
-                        initsign = np.random.choice([-1,1])
-                        newd_low[torch.where(newd_low==0)]=initsign
-                        sign_new_low = torch.sign(newd_low)
-                        sign_new_low[torch.where(sign_new_low==0)] = initsign 
-                    elif args.zerosign==1 or args.zerosign==-1:
-
-                        newd_low[torch.where(newd_low==0)]=int(args.zerosign)
-                        sign_new_low = torch.sign(newd_low)
-                        sign_new_low[torch.where(sign_new_low==0)] = int(args.zerosign)
-                    tmp = np.array(sign_new_low.detach().flatten(start_dim=1).cpu().numpy(),dtype=np.int32)
-                else:
-                    tmp = np.array(torch.sign(newd_low).detach().flatten(start_dim=1).cpu().numpy(),dtype=np.int32)
-                v0_low_list = []
-                for adv_v_init_low in tmp:
-                    v0_low = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init_low )
-                    v0_low_list.append(v0_low)
-
-            elif args.lowtype == "rcolor":
+            if args.lowtype == "rcolor":
                 if dwtlevel>0:
                     hshape,wshape = cas.shape[2],cas.shape[3]
                 else:
@@ -281,12 +244,7 @@ def ATK_ADBA(model, original_image_x, label_y,img_number, aim_r, tolerance_binar
                 adv_v_init = list(np.array(torch.sign(newd[0]).flatten().detach().cpu().numpy(),dtype=np.int32))
 
             v0 = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init )
-            if args.lowtype=="dct":
-                adv_v_init_color = list(np.array(torch.sign(newd_color[0]).flatten().cpu().numpy(),dtype=np.int32))
-                v0_color = V(channels, size_x, size_y, args.initDir,adv_v=adv_v_init_color )
-
-
-
+            
 
     else:
         v0 = V(channels, size_x, size_y, args.initDir)
@@ -400,9 +358,7 @@ def ATK_ADBA(model, original_image_x, label_y,img_number, aim_r, tolerance_binar
                     else:
                       
                         mid_low = initrhigh_low-(initrhigh_low-initrlow_low)/5
-                    if args.lowtype=="dct":
-                        candi_low = torch.clamp(lowpassimg+mid_low*newd_image_color,0,1)
-                    elif args.lowtype=="rcolor" or args.lowtype=="bar":
+                    if  args.lowtype=="rcolor" or args.lowtype=="bar":
                         candi_low = torch.clamp(original_image_x+mid_low*newd_image_low.cuda(),0,1)
 
                     # = torch.argmax(model(candi_low.cuda())).cpu()
@@ -436,9 +392,7 @@ def ATK_ADBA(model, original_image_x, label_y,img_number, aim_r, tolerance_binar
                     print("loop threshold.")
                     break
             tmp = torch.clamp(original_image_x+initrhigh*newd_image.cuda(),0,1)
-            if args.lowtype=="dct":
-                tmp_low = torch.clamp(lowpassimg+initrhigh_low*newd_image_color,0,1)
-            elif args.lowtype=="rcolor" or args.lowtype=="bar":
+            if  args.lowtype=="rcolor" or args.lowtype=="bar":
                 tmp_low = torch.clamp(original_image_x+initrhigh_low*newd_image_low.cuda(),0,1)
             dis = torch.norm(tmp-original_image_x,p=np.inf)
             dis_low = torch.norm(tmp_low-original_image_x,p=np.inf)
@@ -455,7 +409,7 @@ def ATK_ADBA(model, original_image_x, label_y,img_number, aim_r, tolerance_binar
                 candi = tmp
                 args.paratype=22
             if gtgrad is not None:
-                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
             else:
                 cossimlist_init = None
 
@@ -545,38 +499,30 @@ def ATK_ADBA(model, original_image_x, label_y,img_number, aim_r, tolerance_binar
                 if len(blocks_i)>0:
                     blocks.append(copy.deepcopy(blocks_i))
                
+            if  (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):
 
-
-
-            innerloop=0
-            while  (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):
-                print(f"innerloop:{innerloop},query:{query},Rbest:{ITERATION.old_vbest.Rmax}")
                 newd_rev,newcandi,newdis,newd_color = getNewd(ycbcr,n_block,stds,original_image_x.cuda(),npop=npop,nchannel=nchannel,\
                                             step_p=step_p,diffj=diffj,ord=np.inf,initmu=args.mu,initystd=args.initystd,\
                                                 initcbstd=args.initcbstd,initcrstd=args.initcrstd,blocksize=args.blocksize,\
-                                                    init="",initvariables="",freqratio=args.freqratio,color = args.color) 
+                                                    init=args.init,initvariables=[],freqratio=args.freqratio,color = args.color) 
                 
                 zeronum = len(torch.where(torch.sign(newd_rev)==0)[0])
                 print(f"newd, zeronum:{zeronum}")
                 if zeronum>0:
-
-                    if args.zerosign==0:
-                        initsign = np.random.choice([-1,1])
-                        newd_rev[torch.where(newd_rev==0)]=initsign
-                        sign_new_low = torch.sign(newd_rev)
-                        sign_new_low[torch.where(sign_new_low==0)] = initsign 
-                    elif args.zerosign==1 or args.zerosign==-1:
-
-                        newd_rev[torch.where(newd_rev==0)]=int(args.zerosign)
-                        sign_new_low = torch.sign(newd_rev)
-                        sign_new_low[torch.where(sign_new_low==0)] = int(args.zerosign)
-
-
+                    newd_rev[torch.where(newd_rev==0)]=1
+                    sign_new_low = torch.sign(newd_rev)
+                    sign_new_low[torch.where(sign_new_low==0)] = 1
                     adv_v_init_rev = list(np.array(sign_new_low[0].flatten().detach().cpu().numpy(),dtype=np.int32))
                 else:
                     adv_v_init_rev = list(np.array(torch.sign(newd_rev[0]).flatten().detach().cpu().numpy(),dtype=np.int32))
 
                 v0_rev = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init_rev )
+                v0_rev.Rmax =ITERATION.old_vbest.Rmax
+
+            innerloop=0
+            while  (query < args.budget) and (ITERATION.old_vbest.Rmax > aim_r):
+                print(f"innerloop:{innerloop},query:{query},Rbest:{ITERATION.old_vbest.Rmax}")
+
                 block_iter = 0
 
                 if args.ablation==0:

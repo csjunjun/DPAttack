@@ -53,147 +53,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
     blocksize_list_ori = blocksize_list
     chosenv_list = []
     newcandi_color_list=[]
-    if args.warmup>-1:
-        for blocksize in blocksize_list:
-            diffj = DiffJPEG(bs=blocksize)
-            yc,cb,cr = diffj(original_image_x.detach().cpu(),forged=False,batch=True)
-            ycbcr = torch.cat([yc.unsqueeze(1),cb.unsqueeze(1),cr.unsqueeze(1)],dim=1)
-            n_block = ycbcr.shape[2]
-            y_mu,y_std,_ = getZigzagMeanStd(yc[0])
-            cb_mu,cb_std,_ = getZigzagMeanStd(cb[0])
-            cr_mu,cr_std,_ = getZigzagMeanStd(cr[0])
-            stds =[y_std,cb_std,cr_std]
-            mus = [y_mu,cb_mu,cr_mu]
-            newd,newcandi,newdis,newd_color,newcandi_color = getNewd(ycbcr,n_block,stds,original_image_x.cuda(),npop=npop,nchannel=nchannel,\
-                                        step_p=step_p,diffj=diffj,ord=order,initmu=args.mu,initystd=args.initystd,\
-                                            initcbstd=args.initcbstd,initcrstd=args.initcrstd,blocksize=blocksize,\
-                                                init=args.init,initvariables=initvariables,freqratio=args.freqratio,\
-                                                    color = args.color,returnColorimg=True) 
-            newcandi_color_list.append(newcandi_color)
-
-            zeronum = len(torch.where(torch.sign(newd)==0)[0])
-            print(f"newd, zeronum:{zeronum}")
-            if zeronum>0:
-                newd[torch.where(newd==0)]=1
-                sign_new_low = torch.sign(newd)
-                sign_new_low[torch.where(sign_new_low==0)] = 1
-                adv_v_init = list(np.array(sign_new_low[0].flatten().detach().cpu().numpy(),dtype=np.int32))
-            else:
-                adv_v_init = list(np.array(torch.sign(newd[0]).flatten().detach().cpu().numpy(),dtype=np.int32))
-
-            v0 = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init )
-            newd_image = v0.advv_to_tensor()
-            newd_image_binary = newd_image
-            newd_image_binary_list.append(newd_image_binary)
-            v0_list.append(v0)
-
-        query = 0
-        initrhigh=1
-        initrlow=0
-        success = -1
-        candi = None
-        
-        thislooplimit = 10
-        print(f"thislooplimit:{thislooplimit}")
-        thisloop = 0
-        rangescale = initrhigh-initrlow
-        if args.budget<=20:
-            args.earlyexit = 0
-        print(f"earlyexit:{args.earlyexit}")
-
-        while thisloop<thislooplimit and query< args.budget:
-            if len(newd_image_binary_list)==1 and args.earlyexit==1:
-                if args.onlyone==0:
-                    break
-            mid = (initrhigh+initrlow)/2
-            rangescale = initrhigh-initrlow
-            succlist,dis_list=[],[]
-            for newd_image_binary in newd_image_binary_list:
-                candi = torch.clamp(original_image_x+mid*newd_image_binary,0,1)
-                tmpsavep = getTempFilename(candi,args.apitype)
-                if args.apitype=="baidu":
-                    pre = model.detect_labels(tmpsavep,save=False)
-                elif args.apitype=="tencent":
-                    _,pre,_ = model.detect_labels(tmpsavep,query+1,save=False)
-                elif args.api_type=="google":
-                    pre,score =  model.predict_label(tmpsavep,tmpsavep.split(".")[0]+"_res.json")
-                elif args.api_type=="imagga":
-                    pre = model.predict_label(candi)
-                #pre = model.detect_labels(tmpsavep,save=False)
-
-                query+=1
-                dis = torch.norm(candi-original_image_x,p=np.inf)
-
-                if (model.ismatchHard(pre) and (args.api_type=="baidu" or args.api_type=="tencent"))\
-                    or (args.api_type=="google" and pre == label_y)\
-                         or (args.api_type=="imagga" and not model.compare_label(pre)):
-                    flaghere = False
-                else:
-                    flaghere = True
-                succlist.append(flaghere)
-                #succlist.append(not model.ismatchHard(pre))
-                dis_list.append(float(dis))
-            failidx = np.where(np.array(succlist)==False)[0]
-            if len(failidx)==len(newd_image_binary_list): 
-                initrlow = mid 
-            else:
-                tmp = [i for num,i in enumerate(newd_image_binary_list) if num not in failidx]
-                if len(tmp)==0 and len(newd_image_binary_list)==1:
-                    break
-
-                newd_image_binary_list = tmp 
-                tmp = [i for num,i in enumerate(blocksize_list) if num not in failidx]
-                blocksize_list = tmp
-                tmp = [i for num,i in enumerate(v0_list) if num not in failidx]
-                v0_list = tmp
-
-                
-                initrhigh = mid 
-                if mid<=aim_r:
-                    success = 1
-                    Rbest=initrhigh
-                    print(f"succ blocksize:{blocksize_list}")
-                    globalblocksize.extend(blocksize_list)
-
-                    candi = torch.clamp(original_image_x+mid*newd_image_binary_list[0],0,1)
-                    adv_img = candi[0].unsqueeze(0).cuda()-original_image_x.cuda()
-                    Rline = [[0, 1.0]]
-                    nparray = np.array(adv_img.cpu()).flatten()
-                    return success, query, 0, Rbest, np.linalg.norm(nparray, ord=2), np.mean(
-                        nparray), Rline ,0,0,[],[],[] # np.linalg.norm(nparray,ord=np.inf)
-            thisloop+=1
-        if thisloop>=thislooplimit:
-            print("warmup loop limit reached")
-            print(f"range scale;{rangescale},initrhigh:{initrhigh},initrlow:{initrlow}")
-
-        blocksize = np.random.choice(blocksize_list)
-        print(f"blocksize_list:{blocksize_list}")
-        choseidx = blocksize_list_ori.index(blocksize)
-        newcandi_color = newcandi_color_list[choseidx]
-        globalblocksize.extend(blocksize_list)
-        usz = np.where(np.array(blocksize_list)==blocksize)[0]
-
-        newd_image_binary = newd_image_binary_list[usz[0]]
-        v0 = v0_list[usz[0]]
-        print(f"final blocksize:{blocksize},initrhigh:{initrhigh}")
-        newd_image = v0.advv_to_tensor()
-        newd_image_binary = newd_image
-        zeronum = len(torch.where(torch.sign(newd_image_binary)==0)[0])
-        print(f"newd, zeronum:{zeronum}")
-        if zeronum>0:
-            newd_image_binary[torch.where(newd_image_binary==0)]=1
-            sign_new_low = torch.sign(newd_image_binary)
-            sign_new_low[torch.where(sign_new_low==0)] = 1
-            adv_v_init = list(np.array(sign_new_low[0].flatten().detach().cpu().numpy(),dtype=np.int32))
-        else:
-            adv_v_init = list(np.array(torch.sign(newd_image_binary).flatten().detach().cpu().numpy(),dtype=np.int32))
-
-        v0 = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init )
-
-    else:
-        success=-1
-        query=0
-        blocksize = args.blocksize
+    for blocksize in blocksize_list:
         diffj = DiffJPEG(bs=blocksize)
         yc,cb,cr = diffj(original_image_x.detach().cpu(),forged=False,batch=True)
         ycbcr = torch.cat([yc.unsqueeze(1),cb.unsqueeze(1),cr.unsqueeze(1)],dim=1)
@@ -203,12 +63,12 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
         cr_mu,cr_std,_ = getZigzagMeanStd(cr[0])
         stds =[y_std,cb_std,cr_std]
         mus = [y_mu,cb_mu,cr_mu]
-        newd,newcandi,newdis,newd_color = getNewd(ycbcr,n_block,stds,original_image_x.cuda(),npop=npop,nchannel=nchannel,\
+        newd,newcandi,newdis,newd_color,newcandi_color = getNewd(ycbcr,n_block,stds,original_image_x.cuda(),npop=npop,nchannel=nchannel,\
                                     step_p=step_p,diffj=diffj,ord=order,initmu=args.mu,initystd=args.initystd,\
                                         initcbstd=args.initcbstd,initcrstd=args.initcrstd,blocksize=blocksize,\
                                             init=args.init,initvariables=initvariables,freqratio=args.freqratio,\
-                                                color = args.color) 
-
+                                                color = args.color,returnColorimg=True) 
+        newcandi_color_list.append(newcandi_color)
 
         zeronum = len(torch.where(torch.sign(newd)==0)[0])
         print(f"newd, zeronum:{zeronum}")
@@ -223,6 +83,113 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
         v0 = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init )
         newd_image = v0.advv_to_tensor()
         newd_image_binary = newd_image
+        newd_image_binary_list.append(newd_image_binary)
+        v0_list.append(v0)
+
+    query = 0
+    initrhigh=1
+    initrlow=0
+    success = -1
+    candi = None
+    
+    thislooplimit = 10
+    print(f"thislooplimit:{thislooplimit}")
+    thisloop = 0
+    rangescale = initrhigh-initrlow
+    if args.budget<=20:
+        args.earlyexit = 0
+    print(f"earlyexit:{args.earlyexit}")
+
+    while thisloop<thislooplimit and query< args.budget:
+        if len(newd_image_binary_list)==1 and args.earlyexit==1:
+            if args.onlyone==0:
+                break
+        mid = (initrhigh+initrlow)/2
+        rangescale = initrhigh-initrlow
+        succlist,dis_list=[],[]
+        for newd_image_binary in newd_image_binary_list:
+            candi = torch.clamp(original_image_x+mid*newd_image_binary,0,1)
+            tmpsavep = getTempFilename(candi,args.apitype)
+            if args.apitype=="baidu":
+                pre = model.detect_labels(tmpsavep,save=False)
+            elif args.apitype=="tencent":
+                _,pre,_ = model.detect_labels(tmpsavep,query+1,save=False)
+            elif args.api_type=="google":
+                pre,score =  model.predict_label(tmpsavep,tmpsavep.split(".")[0]+"_res.json")
+            elif args.api_type=="imagga":
+                pre = model.predict_label(candi)
+            #pre = model.detect_labels(tmpsavep,save=False)
+
+            query+=1
+            dis = torch.norm(candi-original_image_x,p=np.inf)
+
+            if (model.ismatchHard(pre) and (args.api_type=="baidu" or args.api_type=="tencent"))\
+                or (args.api_type=="google" and pre == label_y)\
+                        or (args.api_type=="imagga" and not model.compare_label(pre)):
+                flaghere = False
+            else:
+                flaghere = True
+            succlist.append(flaghere)
+            #succlist.append(not model.ismatchHard(pre))
+            dis_list.append(float(dis))
+        failidx = np.where(np.array(succlist)==False)[0]
+        if len(failidx)==len(newd_image_binary_list): 
+            initrlow = mid 
+        else:
+            tmp = [i for num,i in enumerate(newd_image_binary_list) if num not in failidx]
+            if len(tmp)==0 and len(newd_image_binary_list)==1:
+                break
+
+            newd_image_binary_list = tmp 
+            tmp = [i for num,i in enumerate(blocksize_list) if num not in failidx]
+            blocksize_list = tmp
+            tmp = [i for num,i in enumerate(v0_list) if num not in failidx]
+            v0_list = tmp
+
+            
+            initrhigh = mid 
+            if mid<=aim_r:
+                success = 1
+                Rbest=initrhigh
+                print(f"succ blocksize:{blocksize_list}")
+                globalblocksize.extend(blocksize_list)
+
+                candi = torch.clamp(original_image_x+mid*newd_image_binary_list[0],0,1)
+                adv_img = candi[0].unsqueeze(0).cuda()-original_image_x.cuda()
+                Rline = [[0, 1.0]]
+                nparray = np.array(adv_img.cpu()).flatten()
+                return success, query, 0, Rbest, np.linalg.norm(nparray, ord=2), np.mean(
+                    nparray), Rline ,0,0,[],[],[] # np.linalg.norm(nparray,ord=np.inf)
+        thisloop+=1
+    if thisloop>=thislooplimit:
+        print("warmup loop limit reached")
+        print(f"range scale;{rangescale},initrhigh:{initrhigh},initrlow:{initrlow}")
+
+    blocksize = np.random.choice(blocksize_list)
+    print(f"blocksize_list:{blocksize_list}")
+    choseidx = blocksize_list_ori.index(blocksize)
+    newcandi_color = newcandi_color_list[choseidx]
+    globalblocksize.extend(blocksize_list)
+    usz = np.where(np.array(blocksize_list)==blocksize)[0]
+
+    newd_image_binary = newd_image_binary_list[usz[0]]
+    v0 = v0_list[usz[0]]
+    print(f"final blocksize:{blocksize},initrhigh:{initrhigh}")
+    newd_image = v0.advv_to_tensor()
+    newd_image_binary = newd_image
+    zeronum = len(torch.where(torch.sign(newd_image_binary)==0)[0])
+    print(f"newd, zeronum:{zeronum}")
+    if zeronum>0:
+        newd_image_binary[torch.where(newd_image_binary==0)]=1
+        sign_new_low = torch.sign(newd_image_binary)
+        sign_new_low[torch.where(sign_new_low==0)] = 1
+        adv_v_init = list(np.array(sign_new_low[0].flatten().detach().cpu().numpy(),dtype=np.int32))
+    else:
+        adv_v_init = list(np.array(torch.sign(newd_image_binary).flatten().detach().cpu().numpy(),dtype=np.int32))
+
+    v0 = V(args.ablation,channels, size_x, size_y, args.initDir,adv_v=adv_v_init )
+
+    
 
     dwtlevel = int(math.log2(blocksize))
     if dwtlevel>0 and args.lowtype!="dct" and args.onlyone!=1:
@@ -398,10 +365,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
             newd_image_low.append(newd_image_low_tmp)
         newd_image_low = torch.stack(newd_image_low)
     if args.onlyone==0:
-        if args.warmup==-1:
-            query=0
-            initrhigh = 1
-            print(f"final blocksize after warmup:{blocksize},initrhigh:{initrhigh}")
+
         with torch.no_grad():
             candi_low = torch.clamp(original_image_x+initrhigh*newd_image_low.cpu(),0,1)
             tmpsavep = getTempFilename(candi_low)
@@ -555,7 +519,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                 globalquery+=query 
                 query = globalquery
             if gtgrad is not None:
-                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
             else:
                 cossimlist_init = None
 
@@ -765,9 +729,6 @@ def RlineQ(Rline, radius_line, budget):
 def mysortkey(filename:str):
     return int(filename.split("_")[2].split(".")[0])  
 
-def mysortkey2(filename:str):
-    return int(filename.split("_")[2].split("_")[0])  
-
 
 def main_ADBA():
     #profile = lp.LineProfiler() --onlyone 1 --blocksize 4 --budget 50 --lowtype rcolor
@@ -819,7 +780,7 @@ def main_ADBA():
     parser.add_argument('--ablation', default=0, type=int,
                         help='0::None,1:adbasearch.')
     parser.add_argument('--lowtype', default="rcolor", type=str,
-                        help='dct,bar,rcolor,dwtstd') 
+                        help='rcolor') 
     parser.add_argument('--dwtlevel', default=4, type=float,
                         help='0:no;1;2')  
     parser.add_argument('--dctTrunc', default=1, type=float,

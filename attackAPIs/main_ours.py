@@ -297,14 +297,12 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
             elif args.api_type=="imagga":
                 pre = model.predict_label(candi)
 
-            #pre = model.detect_labels(tmpsavep,save=False)
             query+=1
             dis = torch.norm(candi-original_image_x,p=np.inf)
             if (model.ismatchHard(pre) and (args.api_type=="baidu" or args.api_type=="tencent"))\
                 or (args.api_type=="google" and pre == label_y)\
                         or (args.api_type=="imagga" and not model.compare_label(pre)):
 
-            #if pre==label_y:
                 initrlow = mid 
             else:
                 initrhigh = mid 
@@ -649,7 +647,6 @@ def main_ADBA():
       
     deviceid = args.deviceid
     setSeed(args.seed)
-    adbafun = ADBEvaluate(PARA_TYPE=args.paratype)
     os.environ["CUDA_VISIBLE_DEVICES"]=deviceid
     order = 2 if args.norm == 'l2' else np.inf
     print(args)
@@ -783,7 +780,7 @@ def main_ADBA():
         orig_correct_picture_num = orig_correct_picture_num + 1
 
         success, que, iter_num, R, R2, avgval, Rline,blacklight_count,blacklight_first_detect,chosenv_list = ATK_ADBA(filename.split(".")[0],torch_model, original_image, i,
-                                                                label, picture_i, args.epsilon, 8,order, None,"",savep,adbafun,args)
+                                                                label, picture_i, args.epsilon, 8,order, None,"",savep,None,args)
         RlineQ(Rline, radius_line, args.budget - 1)
         if success == 1 and que <= args.budget:
             atk_success = atk_success + 1

@@ -223,9 +223,9 @@ class RayS(object):
                 diffq = self.queries[0].item()-prequery
                 return self.x_final, (dist <= self.epsilon),stop_queries ,blacklight_count,blacklight_first_detect,diffq
             if to_update_ind>0 and gtgrad is not None:
-                #cossim = float(torch.cosine_similarity(torch.sign(attempt.cpu()-x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                #cossim = float(torch.cosine_similarity(torch.sign(attempt.cpu()-x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
                 #cossimlist.append(cossim)
-                cossim = float(torch.cosine_similarity(attempt.cpu().flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossim = float(torch.cosine_similarity(attempt.cpu().flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
 
                 cossimlist.append([cossim,self.queries[0].item()])
                 querytime = int(self.queries[0])
@@ -359,9 +359,9 @@ class RayS(object):
                 diffq = self.queries[0].item()-prequery
                 return self.x_final, (dist <= self.epsilon),stop_queries ,blacklight_count,blacklight_first_detect,diffq
             if to_update_ind>0 and gtgrad is not None:
-                #cossim = float(torch.cosine_similarity(torch.sign(attempt.cpu()-x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                #cossim = float(torch.cosine_similarity(torch.sign(attempt.cpu()-x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
                 #cossimlist.append(cossim)
-                cossim = float(torch.cosine_similarity(attempt.cpu().flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossim = float(torch.cosine_similarity(attempt.cpu().flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
 
                 cossimlist.append([cossim,self.queries[0].item()])
                 querytime = int(self.queries[0])
