@@ -10,7 +10,7 @@ from torchvision import transforms
 import sys
 from torchvision.utils import save_image
 from  tools.jpegdct import DiffJPEG
-from tools.utils import setSeed,get_tracker
+from tools.utils import setSeed,get_tracker,progress_bar
 
 from tools.fetchmodel import fetchImageNetModels
 from tools.DataTools import ADBEvaluate
@@ -707,9 +707,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                     if  query_1_low<innerqlimit and (dis_low == disbest or flag_low_stop<2):
                         stop2 = False
                         mid_low = initrhigh_low-(initrhigh_low-initrlow_low)/5
-                        if args.lowtype=="dct":
-                            candi_low = torch.clamp(lowpassimg+mid_low*newd_image_color,0,1)
-                        elif args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
+                        if  args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
                             
                             candi_low = original_image_x+mid_low*torch.clamp((newd_image_low+torch.randn_like(newd_image_low)),-1,1)
                             candi_low = torch.clamp(candi_low,0,1)
@@ -804,7 +802,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                 globalquery+=query 
                 query = globalquery
             if gtgrad is not None:
-                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
             else:
                 cossimlist_init = None
 
@@ -1076,7 +1074,7 @@ def main_ADBA():
     parser.add_argument('--ablation', default=0, type=int,
                         help='0::None,1:adbasearch.')
     parser.add_argument('--lowtype', default="rcolor", type=str,
-                        help='dct,bar,rcolor,dwtstd') 
+                        help='rcolor') 
     parser.add_argument('--dwtlevel', default=4, type=float,
                         help='0:no;1;2')  
     parser.add_argument('--dctTrunc', default=1, type=float,

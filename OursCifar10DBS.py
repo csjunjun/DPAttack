@@ -407,9 +407,7 @@ def ATK_ADBA(model, original_image_x, img_number, label_y, sample_index, aim_r, 
                     if  query_1_low<innerqlimit and (dis_low == disbest or flag_low_stop<2):
                         stop2 = False
                         mid_low = initrhigh_low-(initrhigh_low-initrlow_low)/5
-                        if args.lowtype=="dct":
-                            candi_low = torch.clamp(lowpassimg+mid_low*newd_image_color,0,1)
-                        elif args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
+                        if  args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
                             candi_low = torch.clamp(original_image_x+mid_low*newd_image_low.cpu(),0,1)
 
                         pre_low = torch.argmax(model(candi_low.cuda())).cpu()
@@ -463,9 +461,7 @@ def ATK_ADBA(model, original_image_x, img_number, label_y, sample_index, aim_r, 
                         print("loop threshold.")
                         break
                 tmp = torch.clamp(original_image_x+initrhigh*newd_image.cpu(),0,1)
-                if args.lowtype=="dct":
-                    tmp_low = torch.clamp(lowpassimg+initrhigh_low*newd_image_color,0,1)
-                elif args.lowtype=="rcolor" or args.lowtype=="bar"  or args.lowtype=="dwtstd":
+                if  args.lowtype=="rcolor" or args.lowtype=="bar"  or args.lowtype=="dwtstd":
                     tmp_low = torch.clamp(original_image_x+initrhigh_low*newd_image_low,0,1)
                 dis = torch.norm(tmp-original_image_x,p=np.inf)
                 dis_low = torch.norm(tmp_low-original_image_x,p=np.inf)

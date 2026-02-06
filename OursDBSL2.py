@@ -19,7 +19,7 @@ from tools.DataTools import ADBEvaluate
 
 import statistics
 
-from models.OursClass import Block,V,getzigzagcor,getZigzagMeanStd,getNewdRays
+from models.OursClass import Block,V,getzigzagcor,getZigzagMeanStd
 from tools.utils import setSeed,progress_bar
 ##################################################################################################
 #represent blocks of a picture
@@ -351,8 +351,8 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
     thisloop = 0
     rangescale = initrhigh-initrlow
     disbest = 100000
-    if args.budget<=20:
-        args.earlyexit = 0
+    # if args.budget<=20:
+    #     args.earlyexit = 0
     print(f"earlyexit:{args.earlyexit}")
 
     while thisloop<thislooplimit and query< args.budget:
@@ -639,9 +639,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                     if  query_1_low<innerqlimit and (dis_low == disbest or flag_low_stop<2):
                         stop2 = False
                         mid_low = initrhigh_low-(initrhigh_low-initrlow_low)/5
-                        if args.lowtype=="dct":
-                            candi_low = torch.clamp(lowpassimg+mid_low*newd_image_color,0,1)
-                        elif args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
+                        if  args.lowtype=="rcolor" or args.lowtype=="bar" or args.lowtype=="dwtstd":
                             candi_low = torch.clamp(projl2(original_image_x,recons,mid_low),0,1)
 
                         pre_low = torch.argmax(model(candi_low.cuda())).cpu()
@@ -701,9 +699,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                         break
                 tmp = torch.clamp(projl2(original_image_x,newd_image_binary,initrhigh),0,1)
 
-                if args.lowtype=="dct":
-                    tmp_low = torch.clamp(lowpassimg+initrhigh_low*newd_image_color,0,1)
-                elif args.lowtype=="rcolor" or args.lowtype=="bar"  or args.lowtype=="dwtstd":
+                if  args.lowtype=="rcolor" or args.lowtype=="bar"  or args.lowtype=="dwtstd":
                     tmp_low = torch.clamp(projl2(original_image_x,recons,initrhigh_low),0,1)
 
                 dis = torch.norm(tmp-original_image_x,p=2)
@@ -740,7 +736,7 @@ def ATK_ADBA(filename,model, original_image_x, img_number, label_y, sample_index
                 globalquery+=query 
                 query = globalquery
             if gtgrad is not None:
-                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))#等于1
+                cossimlist_init = float(torch.cosine_similarity(torch.sign(candi.cpu()-original_image_x.cpu()).flatten(start_dim=1).cpu(),torch.sign(gtgrad).flatten(start_dim=1).cpu(),dim=1))
             else:
                 cossimlist_init = None
 
@@ -1001,7 +997,7 @@ def main_ADBA():
     parser.add_argument('--ablation', default=0, type=int,
                         help='0::None,1:adbasearch.')
     parser.add_argument('--lowtype', default="rcolor", type=str,
-                        help='dct,bar,rcolor,dwtstd') 
+                        help='rcolor') 
     parser.add_argument('--dwtlevel', default=4, type=float,
                         help='0:no;1;2')  
     parser.add_argument('--dctTrunc', default=1, type=float,

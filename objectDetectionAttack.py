@@ -27,8 +27,8 @@ def box_iou(boxes1, boxes2):
 
 def evaluate_image(target, output, iou_thresh=0.5):
     """
-    target: dict, 包含 'boxes' [N,4], 'labels' [N]
-    output: dict, 包含 'boxes' [M,4], 'labels' [M], 'scores' [M]
+    target: dict, include 'boxes' [N,4], 'labels' [N]
+    output: dict, include 'boxes' [M,4], 'labels' [M], 'scores' [M]
     """
     newtarget={"boxes":[],"labels":[]}
     for segres in target:
@@ -191,6 +191,7 @@ def evaluate_dataset(model, dataloader, device,paradict,args=None):
         print(f"succ median. recall:{np.median(succrecalllist)}")
         print(f"succ avg. ap:{np.mean(succaplist)}")
         print(f"succ median. ap:{np.median(succaplist)}")
+        return None, None, None
 
 if __name__ == "__main__":
     os.environ['CUDA_VISIBLE_DEVICES'] = '1'
@@ -276,12 +277,10 @@ if __name__ == "__main__":
     print(f"args:{args}")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    # 模型
     weights = FasterRCNN_ResNet50_FPN_V2_Weights.DEFAULT
     model = fasterrcnn_resnet50_fpn_v2(weights=weights, box_score_thresh=0.9)
     model.eval().cuda()
 
-    # 数据集 (示例COCO val2017)
 
     dataset = CocoDetection(
         root="/data/COCO/val2017/",
@@ -291,7 +290,6 @@ if __name__ == "__main__":
     dataloader = DataLoader(dataset, batch_size=paradict["batch_size"], shuffle=False,
                             collate_fn=lambda x: tuple(zip(*x)))
 
-    # 评估
     
     precision, recall, mAP = evaluate_dataset(model, dataloader, device,paradict = paradict,args=args)
-    print(f"Precision: {precision:.3f}, Recall: {recall:.3f}, mAP@0.5: {mAP:.3f}")
+    #print(f"Precision: {precision:.3f}, Recall: {recall:.3f}, mAP@0.5: {mAP:.3f}")
