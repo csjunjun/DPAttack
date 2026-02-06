@@ -64,8 +64,6 @@ Run the attack scripts in the `attackAPIs/` directory. Before this, you have to:
 
 - Request API keys and secret keys from your API platform
 - Set these variables in the `attackAPIs/apis.py` with your own credentials
-- **Note**: When multiple threads call `getTempFilename()` simultaneously, temporary files may be overwritten. Use thread-specific names for temporary files to solve this issue.
-
 
 ### 3. Blacklight Defense
 
