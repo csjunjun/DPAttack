@@ -26,7 +26,7 @@ git clone https://github.com/machanic/TangentAttack.git
 ```
 #### ImageNet 
 
-Download the ImageNet validation dataset and place it in `data/imagenet/val`.
+Download the ImageNet validation dataset from https://www.image-net.org/download.php and place it in `data/imagenet/val`.
 
 ```bash
 python OursDBS.py --datasource imagenet --victimmodel vit
@@ -34,7 +34,7 @@ python OursDBS.py --datasource imagenet --victimmodel vit
 
 #### ImageNet-C
 
-Download the ImageNet-C dataset and place it in `data/imagenetc`.
+Download the ImageNet-C dataset from https://zenodo.org/records/2235448 and place it in `data/imagenetc`.
 
 ```bash
 python OursDBS.py --datasource imagenetc --victimmodel HMany
