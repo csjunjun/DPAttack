@@ -26,7 +26,7 @@ git clone https://github.com/machanic/TangentAttack.git
 ```
 #### ImageNet 
 
-Download the ImageNet validation dataset from https://www.image-net.org/download.php and place it in `data/imagenet/val`.
+Download the ImageNet validation dataset from [this link](https://www.image-net.org/download.php) and place it in `data/imagenet/val`.
 
 ```bash
 python OursDBS.py --datasource imagenet --victimmodel vit
@@ -34,7 +34,7 @@ python OursDBS.py --datasource imagenet --victimmodel vit
 
 #### ImageNet-C
 
-Download the ImageNet-C dataset from https://zenodo.org/records/2235448 and place it in `data/imagenetc`.
+Download the ImageNet-C dataset from [here](https://zenodo.org/records/2235448) and place it in `data/imagenetc`.
 
 ```bash
 python OursDBS.py --datasource imagenetc --victimmodel HMany
@@ -42,7 +42,7 @@ python OursDBS.py --datasource imagenetc --victimmodel HMany
 
 #### ObjectNet
 
-Download the dataset from https://objectnet.dev/download.html and place it in `data/objectnet/`. If the full dataset is too large, download only the file list from `data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt`.
+Download the dataset from [this link](https://objectnet.dev/download.html) and place it in `data/objectnet/`. If the full dataset is too large, download only the file list from `data/objectnet/cliptest1000_withoutimagenetclasswithidx.txt`.
 
 ```bash
 python OursDBS.py --datasource objectnet --victimmodel clip
@@ -50,7 +50,7 @@ python OursDBS.py --datasource objectnet --victimmodel clip
 
 #### PathMNIST
 
-The provided checkpoint is trained following the repository: https://github.com/MedMNIST/MedMNIST
+The provided checkpoint is trained following the repository [MedMNIST](https://github.com/MedMNIST/MedMNIST)
 
 ```bash
 python OursDBS.py --datasource pmnist --victimmodel Net28
@@ -100,7 +100,7 @@ python main.py --test_method  OursDy
 
 Download COCO validation set:
 ```bash
-# Download COCO/val2017 from https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
+# Download COCO/val2017 from [here](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset)
 ```
 
 The main entry point is `objectDetectionAttack.py`, which tests ADBA, our DPAttack with optimal block size, or our DPAttack with dynamic block size selection by setting the parameter `attack_method`.
