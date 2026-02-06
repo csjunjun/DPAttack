@@ -6,7 +6,7 @@ This repository provides an implementation of the paper *"Low-Cost Hard-Label Ad
 
 ## Setup Instructions
 
-1. Install required Python packages based on the import statements in each file: pip install -r requirement.txt
+1. Install required Python packages based on the import statements in each file or pip install -r requirement.txt
 3. Download the necessary datasets and model weights as described in the relevant sections below
 
 ## Reproducing Main Experimental Results
