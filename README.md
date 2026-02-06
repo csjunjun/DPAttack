@@ -219,18 +219,7 @@ callTheorem5()
 
 ### 12. Ablation Studies
 
-#### In Ours.py
-
-- `--ablation`: Different search methods
-  - `0`: PDO search
-  - `1`: Dyadic fixed binary search (ADBA search)
-
-- `--onlyone`: Different initialization methods
-  - `0`: DDM
-  - `1`: Our $d_n$
-  - `2`: Our $\phi(d_r)$
-
-#### In OursAblationInit.py
+#### Results of 9 Table 10. In OursAblationInit.py
 
 - `--ablation` with PDO search:
   - `2`: Uniform initialization
@@ -245,6 +234,19 @@ callTheorem5()
   - `41`: d_b initialization
   - `51`: d_r initialization
   - `61`: Another image initialization
+    
+#### Results of Table 10. In Ours.py
+
+- `--ablation`: Different search methods
+  - `0`: PDO search
+  - `1`: Dyadic fixed binary search (ADBA search)
+
+- `--onlyone`: Different initialization methods
+  - `0`: DDM
+  - `1`: Our $d_n$
+  - `2`: Our $\phi(d_r)$
+
+
 
 ## Acknowledgments
 
