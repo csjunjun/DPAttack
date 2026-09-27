@@ -10,7 +10,13 @@ DPAttack is a query-efficient untargeted hard-label adversarial attack. It is ev
 
 > **Note:** Please download the latest code and datasets from our [Zenodo repository](https://zenodo.org/records/20322561). **Please do not download or use the files directly from GitHub**, as the Zenodo version contains the latest release.
 
-[View the PDF](framework.pdf)
+<p align="center">
+  <img src="framework.png" width="800">
+</p>
+
+<p align="center">
+  <em>Overview of the DifAttack++ framework.</em>
+</p>
 ---
 
 ## Table of Contents
