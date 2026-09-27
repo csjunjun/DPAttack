@@ -17,6 +17,7 @@ DPAttack is a query-efficient untargeted hard-label adversarial attack. It is ev
 <p align="center">
   <em>Overview of the DifAttack++ framework.</em>
 </p>
+
 ---
 
 ## Table of Contents
@@ -830,6 +831,25 @@ python OursBlacklight_CERTA.py --defense 1 --victimmodel resnet18_cer --randsigm
 python OursDBS_RandPreandPost.py --pertstage 2 --epsilon 0.12
 
 python OursDBS_RandPreandPost.py --pertstage 1 --epsilon 0.1
+```
+
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+
+```bibtex
+@inproceedings {DPAttackUSENIX2026,
+	author = {Jun Liu and Leo Yu Zhang and Fengpeng Li and Isao Echizen and Jiantao Zhou},
+	title = {{Low-Cost} {Hard-Label} Adversarial Attack with Theoretical Foundations},
+	booktitle = {35th USENIX Security Symposium (USENIX Security 26)},
+	year = {2026},
+	isbn = {978-1-939133-58-8},
+	address = {Baltimore, MD},
+	pages = {4861--4880},
+	url = {https://www.usenix.org/conference/usenixsecurity26/presentation/liu-jun},
+	publisher = {USENIX Association},
+	month = aug
+}
 ```
 
 
