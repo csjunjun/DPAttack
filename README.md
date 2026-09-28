@@ -15,7 +15,7 @@ DPAttack is a query-efficient untargeted hard-label adversarial attack. It is ev
 </p>
 
 <p align="center">
-  <em>Overview of the DifAttack++ framework.</em>
+  <em>Overview of the DPAttack framework.</em>
 </p>
 
 ---
